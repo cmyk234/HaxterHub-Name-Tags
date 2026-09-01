@@ -1,0 +1,31 @@
+{
+  "background": {
+    "bytes": 772436,
+    "columns": 8,
+    "extension": "jpg",
+    "fps": 15.0,
+    "frame_count": 90,
+    "frame_height": 270,
+    "frame_width": 480,
+    "kind": "spritesheet",
+    "mime": "image/jpeg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/7d78d38b4bc82e520ed0bf08ad3e2a7706fe95eb/assets/1020064059063066062063062065063065/background.jpg",
+    "rows": 12,
+    "sheet_height": 3240,
+    "sheet_width": 3840
+  },
+  "discord_owner_hash": "e5eebb3ed6db2776836344a75e466b760cde2ebd910a9c4e3e48aac2f51548e7",
+  "encoded_roblox_user_id": "1020064059063066062063062065063065",
+  "profile": {
+    "bytes": 80490,
+    "extension": "png",
+    "height": 256,
+    "kind": "image",
+    "mime": "image/png",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/6dcca387cbdc54793e0d8b293c259080a3f20f72/assets/1020064059063066062063062065063065/profile.png",
+    "width": 256
+  },
+  "schema_version": 2,
+  "tag": "ANIMATOR",
+  "updated_at": "2026-09-01T20:37:29+00:00"
+}
