@@ -1,0 +1,33 @@
+{
+  "background": {
+    "bytes": 1875731,
+    "columns": 8,
+    "extension": "jpg",
+    "fps": 15.0,
+    "frame_count": 90,
+    "frame_height": 270,
+    "frame_width": 480,
+    "kind": "spritesheet",
+    "mime": "image/jpeg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/b650ac4891e9f3bb8df917d776f997c97dec6bba/assets/11076251022/background.jpg",
+    "rows": 12,
+    "sheet_height": 3240,
+    "sheet_width": 3840
+  },
+  "discord_owner_hash": "75d0016b0ef73951eb8521b8314ba9d9324b93104f405bd317508ffbf332821f",
+  "profile": {
+    "bytes": 120246,
+    "extension": "png",
+    "height": 256,
+    "kind": "image",
+    "mime": "image/png",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/e0f35df8178a956fc316a0bc33952610bb7bf74d/assets/11076251022/profile.png",
+    "width": 256
+  },
+  "roblox_display_name": "greasyparrot",
+  "roblox_user_id": 11076251022,
+  "roblox_username": "jypit87p81",
+  "schema_version": 1,
+  "tag": "ANIMATOR",
+  "updated_at": "2026-09-01T06:54:28+00:00"
+}
