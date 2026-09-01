@@ -1,5 +1,11 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-01T06:59:05+00:00",
-  "users": {}
+  "updated_at": "2026-09-01T07:05:14+00:00",
+  "users": {
+    "1020062064062068063062063060062061": {
+      "discord_owner_hash": "75d0016b0ef73951eb8521b8314ba9d9324b93104f405bd317508ffbf332821f",
+      "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/f4c940fbca1c697490634147cff9458866349239/nametags/1020062064062068063062063060062061.json",
+      "updated_at": "2026-09-01T07:05:07+00:00"
+    }
+  }
 }
