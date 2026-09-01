@@ -1,0 +1,33 @@
+{
+  "background": {
+    "bytes": 1875731,
+    "columns": 8,
+    "extension": "jpg",
+    "fps": 15.0,
+    "frame_count": 90,
+    "frame_height": 270,
+    "frame_width": 480,
+    "kind": "spritesheet",
+    "mime": "image/jpeg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/468dc575862c879f7ad0dc753b905e785148bfda/assets/3539434132/background.jpg",
+    "rows": 12,
+    "sheet_height": 3240,
+    "sheet_width": 3840
+  },
+  "discord_owner_hash": "75d0016b0ef73951eb8521b8314ba9d9324b93104f405bd317508ffbf332821f",
+  "profile": {
+    "bytes": 120246,
+    "extension": "png",
+    "height": 256,
+    "kind": "image",
+    "mime": "image/png",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/1a394d18fbaf2aa6e3aba65bb350032332386f55/assets/3539434132/profile.png",
+    "width": 256
+  },
+  "roblox_display_name": "Jbby",
+  "roblox_user_id": 3539434132,
+  "roblox_username": "Jasmynej3384",
+  "schema_version": 1,
+  "tag": "MASTER",
+  "updated_at": "2026-09-01T06:36:39+00:00"
+}
