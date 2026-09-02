@@ -1,6 +1,6 @@
 {
   "background": {
-    "bytes": 2766059,
+    "bytes": 1875731,
     "columns": 8,
     "extension": "jpg",
     "fps": 15.0,
@@ -9,7 +9,7 @@
     "frame_width": 480,
     "kind": "spritesheet",
     "mime": "image/jpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/20b7c9d39e211ebbe56eb7a93fd5d2405157b06c/assets/1020065059060067063061068067067063/background.jpg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/3bfbcac9100010b9a7d61d268a423eefc2689a0b/assets/1020065059060067063061068067067063/background.jpg",
     "rows": 12,
     "sheet_height": 3240,
     "sheet_width": 3840
@@ -22,10 +22,10 @@
     "height": 256,
     "kind": "image",
     "mime": "image/png",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/7048aed2155c5d15a34935bf2af5d5c878589f27/assets/1020065059060067063061068067067063/profile.png",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/d303de7ddf5749334860d29226688b8fdd4517e7/assets/1020065059060067063061068067067063/profile.png",
     "width": 256
   },
   "schema_version": 2,
   "tag": "HAXTERHUB DEV",
-  "updated_at": "2026-09-02T02:43:41+00:00"
+  "updated_at": "2026-09-02T02:46:10+00:00"
 }
