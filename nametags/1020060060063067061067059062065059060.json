@@ -9,7 +9,7 @@
     "frame_width": 480,
     "kind": "spritesheet",
     "mime": "image/jpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/3604ca1329cfe9568ab4601b3e3b6b0da6e33c6e/assets/1020060060063067061067059062065059060/background.jpg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/f3cfec351e63af566addc49bdbafcd851b251fc4/assets/1020060060063067061067059062065059060/background.jpg",
     "rows": 12,
     "sheet_height": 3240,
     "sheet_width": 3840
@@ -17,15 +17,15 @@
   "discord_owner_hash": "75d0016b0ef73951eb8521b8314ba9d9324b93104f405bd317508ffbf332821f",
   "encoded_roblox_user_id": "1020060060063067061067059062065059060",
   "profile": {
-    "bytes": 126715,
+    "bytes": 120246,
     "extension": "png",
     "height": 256,
     "kind": "image",
     "mime": "image/png",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/d88ad04c3f12a246a55c52f7c6ed32108d602882/assets/1020060060063067061067059062065059060/profile.png",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/0184068f0d42671e43c945f696db97e1e3ba2d67/assets/1020060060063067061067059062065059060/profile.png",
     "width": 256
   },
   "schema_version": 2,
   "tag": "ANIMATOR",
-  "updated_at": "2026-09-02T01:09:55+00:00"
+  "updated_at": "2026-09-02T01:27:51+00:00"
 }
