@@ -1,6 +1,6 @@
 {
   "background": {
-    "bytes": 1875731,
+    "bytes": 2083201,
     "columns": 8,
     "extension": "jpg",
     "fps": 15.0,
@@ -9,7 +9,7 @@
     "frame_width": 480,
     "kind": "spritesheet",
     "mime": "image/jpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/abc34f433991997e1ea89886d87ee02cc4fb7b65/assets/1020065059060067063061068067067063/background.jpg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/7825c4479f1f87b2980c1ffb1c27bc8757f0651e/assets/1020065059060067063061068067067063/background.jpg",
     "rows": 12,
     "sheet_height": 3240,
     "sheet_width": 3840
@@ -17,15 +17,15 @@
   "discord_owner_hash": "75d0016b0ef73951eb8521b8314ba9d9324b93104f405bd317508ffbf332821f",
   "encoded_roblox_user_id": "1020065059060067063061068067067063",
   "profile": {
-    "bytes": 126715,
+    "bytes": 67871,
     "extension": "png",
     "height": 256,
     "kind": "image",
     "mime": "image/png",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/ee85ed7c5f58bda903a3df6c0b32eb73df32974e/assets/1020065059060067063061068067067063/profile.png",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/434aa13881f4532c3a7c7f52f654373c42265071/assets/1020065059060067063061068067067063/profile.png",
     "width": 256
   },
   "schema_version": 2,
-  "tag": "DEV",
-  "updated_at": "2026-09-02T03:36:56+00:00"
+  "tag": "OWNER",
+  "updated_at": "2026-09-02T03:42:56+00:00"
 }
