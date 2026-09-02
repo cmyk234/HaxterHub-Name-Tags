@@ -1,17 +1,17 @@
 {
   "background": {
-    "bytes": 2083201,
+    "bytes": 1668560,
     "columns": 8,
     "extension": "jpg",
     "fps": 15.0,
-    "frame_count": 90,
+    "frame_count": 68,
     "frame_height": 270,
     "frame_width": 480,
     "kind": "spritesheet",
     "mime": "image/jpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/9a73d25583a0a8590e222d7c1c3469ae7304be68/assets/1020065059060067063061068067067063/background.jpg",
-    "rows": 12,
-    "sheet_height": 3240,
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/59ab77afa484834355f0a052074d70b33aa2a385/assets/1020065059060067063061068067067063/background.jpg",
+    "rows": 9,
+    "sheet_height": 2430,
     "sheet_width": 3840
   },
   "discord_owner_hash": "75d0016b0ef73951eb8521b8314ba9d9324b93104f405bd317508ffbf332821f",
@@ -22,10 +22,10 @@
     "height": 256,
     "kind": "image",
     "mime": "image/png",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/0387f0117b03f12a4e76a8312bb20e9f94f303de/assets/1020065059060067063061068067067063/profile.png",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/8fb1cd9e015049cfa2c27b7a8ee4647e4e756978/assets/1020065059060067063061068067067063/profile.png",
     "width": 256
   },
   "schema_version": 2,
-  "tag": "OWNER",
-  "updated_at": "2026-09-02T09:16:56+00:00"
+  "tag": "HAXTERHUB",
+  "updated_at": "2026-09-02T09:20:27+00:00"
 }
