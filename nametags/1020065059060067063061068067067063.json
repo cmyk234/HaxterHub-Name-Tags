@@ -9,7 +9,7 @@
     "frame_width": 480,
     "kind": "spritesheet",
     "mime": "image/jpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/7da2c881343f228826809d9b7f40337bbb8efd68/assets/1020065059060067063061068067067063/background.jpg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/b9f291dffb89f2ea5426c91cd4cf7413b2a6f9ee/assets/1020065059060067063061068067067063/background.jpg",
     "rows": 12,
     "sheet_height": 3240,
     "sheet_width": 3840
@@ -22,10 +22,10 @@
     "height": 256,
     "kind": "image",
     "mime": "image/png",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/d91d609604f1c300c47a0d2d661d49bae9356583/assets/1020065059060067063061068067067063/profile.png",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/4ea3279aa65b510a56f0825cdd1342cfb6498058/assets/1020065059060067063061068067067063/profile.png",
     "width": 256
   },
   "schema_version": 2,
-  "tag": "HAXTERFELIX",
-  "updated_at": "2026-09-02T08:57:38+00:00"
+  "tag": "HAXTERHUB DEV",
+  "updated_at": "2026-09-02T09:07:09+00:00"
 }
