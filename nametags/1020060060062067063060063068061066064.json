@@ -1,0 +1,40 @@
+{
+  "audio": {
+    "bytes": 3893186,
+    "enabled": true,
+    "extension": "mp3",
+    "kind": "audio",
+    "looped": false,
+    "mime": "audio/mpeg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/ac0e4a0984e819072ebb900cd43ad763ee38b7e4/assets/1020060060062067063060063068061066064/audio.mp3"
+  },
+  "background": {
+    "bytes": 2251853,
+    "columns": 8,
+    "extension": "jpg",
+    "fps": 10.0,
+    "frame_count": 90,
+    "frame_height": 270,
+    "frame_width": 480,
+    "kind": "spritesheet",
+    "mime": "image/jpeg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/b9aac77bd68e1ed53e97b5b1d8bc60b1be03b261/assets/1020060060062067063060063068061066064/background.jpg",
+    "rows": 12,
+    "sheet_height": 3240,
+    "sheet_width": 3840
+  },
+  "discord_owner_hash": "04ed08269b6c95b9d8627dd86067881ce3a0d7e3028e0c1939ad91718e69f46c",
+  "encoded_roblox_user_id": "1020060060062067063060063068061066064",
+  "profile": {
+    "bytes": 45836,
+    "extension": "png",
+    "height": 256,
+    "kind": "image",
+    "mime": "image/png",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/982a3cfad05af3a6df73fae60854e3ec06d1f72c/assets/1020060060062067063060063068061066064/profile.png",
+    "width": 256
+  },
+  "schema_version": 3,
+  "tag": "THE WEAVER",
+  "updated_at": "2026-09-03T23:56:12+00:00"
+}
