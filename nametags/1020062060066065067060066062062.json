@@ -17,21 +17,15 @@
   "discord_owner_hash": "702661e21a5044fbc505a6604a29e8cb26b8b1d414ecb3230c1c88e492482fbb",
   "encoded_roblox_user_id": "1020062060066065067060066062062",
   "profile": {
-    "bytes": 68270,
-    "columns": 4,
-    "extension": "jpg",
-    "fps": 10.0,
-    "frame_count": 10,
-    "frame_height": 160,
-    "frame_width": 160,
-    "kind": "spritesheet",
-    "mime": "image/jpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/21b520c4c3be15d95aadfa4ab52ee12f3964b65f/assets/1020062060066065067060066062062/profile.jpg",
-    "rows": 3,
-    "sheet_height": 480,
-    "sheet_width": 640
+    "bytes": 55004,
+    "extension": "png",
+    "height": 256,
+    "kind": "image",
+    "mime": "image/png",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/ac72a4a86e0bf57456db07a078b564c065d5b986/assets/1020062060066065067060066062062/profile.png",
+    "width": 256
   },
   "schema_version": 2,
   "tag": "DEVS E-KITTEN",
-  "updated_at": "2026-09-03T08:55:06+00:00"
+  "updated_at": "2026-09-03T08:55:27+00:00"
 }
