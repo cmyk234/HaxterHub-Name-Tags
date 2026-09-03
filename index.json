@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-09-03T22:47:19+00:00",
+  "updated_at": "2026-09-03T23:04:56+00:00",
   "users": {
     "1020060059065066068062068": {
       "discord_owner_hash": "75d0016b0ef73951eb8521b8314ba9d9324b93104f405bd317508ffbf332821f",
@@ -14,8 +14,10 @@
     },
     "1020060060063067061067059062065059060": {
       "discord_owner_hash": "75d0016b0ef73951eb8521b8314ba9d9324b93104f405bd317508ffbf332821f",
-      "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/e915d7d8c3591bca20f6b032158099faf1be9bd8/nametags/1020060060063067061067059062065059060.json",
-      "updated_at": "2026-09-02T01:27:51+00:00"
+      "display_name": "opmcrtv",
+      "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/ad99b7675fc60b01dcb45a614891cf4af2b896f0/nametags/1020060060063067061067059062065059060.json",
+      "updated_at": "2026-09-03T23:04:55+00:00",
+      "username": "opmcrtv"
     },
     "1020062060066065067060066062062": {
       "discord_owner_hash": "702661e21a5044fbc505a6604a29e8cb26b8b1d414ecb3230c1c88e492482fbb",
