@@ -1,0 +1,25 @@
+{
+  "background": {
+    "bytes": 3587,
+    "extension": "jpg",
+    "height": 540,
+    "kind": "image",
+    "mime": "image/jpeg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/08a52ee3db17ad1a47b6e1f34e44507726ec3b99/assets/1020062063068065062063059067/background.jpg",
+    "width": 960
+  },
+  "discord_owner_hash": "75d0016b0ef73951eb8521b8314ba9d9324b93104f405bd317508ffbf332821f",
+  "encoded_roblox_user_id": "1020062063068065062063059067",
+  "profile": {
+    "bytes": 64658,
+    "extension": "png",
+    "height": 256,
+    "kind": "image",
+    "mime": "image/png",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/ce0c90134d0c157f21a8ff7cde3590feb7c1c7c1/assets/1020062063068065062063059067/profile.png",
+    "width": 256
+  },
+  "schema_version": 2,
+  "tag": "AK DEVELOPER",
+  "updated_at": "2026-09-03T20:40:25+00:00"
+}
