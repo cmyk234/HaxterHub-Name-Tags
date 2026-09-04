@@ -1,0 +1,31 @@
+{
+  "background": {
+    "bytes": 1044538,
+    "columns": 7,
+    "extension": "jpg",
+    "fps": 15.0,
+    "frame_count": 45,
+    "frame_height": 270,
+    "frame_width": 480,
+    "kind": "spritesheet",
+    "mime": "image/jpeg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/2bb9397016c45bf1ee420525f7357d2939e152fa/assets/1020062060065064060061068068067/background.jpg",
+    "rows": 7,
+    "sheet_height": 1890,
+    "sheet_width": 3360
+  },
+  "discord_owner_hash": "e5eebb3ed6db2776836344a75e466b760cde2ebd910a9c4e3e48aac2f51548e7",
+  "encoded_roblox_user_id": "1020062060065064060061068068067",
+  "profile": {
+    "bytes": 62178,
+    "extension": "png",
+    "height": 256,
+    "kind": "image",
+    "mime": "image/png",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/fea32b5a465943f0b0cd5f4cafdc79490dc2af06/assets/1020062060065064060061068068067/profile.png",
+    "width": 256
+  },
+  "schema_version": 3,
+  "tag": "LOCAL IDIOT",
+  "updated_at": "2026-09-04T02:03:36+00:00"
+}
