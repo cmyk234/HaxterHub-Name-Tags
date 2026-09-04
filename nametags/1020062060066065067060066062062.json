@@ -9,7 +9,7 @@
     "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/35f3d5548833ab91a83d275d713e92ccae4fa8fc/assets/1020062060066065067060066062062/audio.mp3"
   },
   "background": {
-    "bytes": 79279,
+    "bytes": 67172,
     "columns": 4,
     "extension": "jpg",
     "fps": 10.0,
@@ -19,7 +19,7 @@
     "height": 540,
     "kind": "image",
     "mime": "image/jpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/829ff3d4c99b903d48ef0e2ee9b02ff531614209/assets/1020062060066065067060066062062/background.jpg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/c133b8140606c4d7c5ac67178a449b60d92d11f7/assets/1020062060066065067060066062062/background.jpg",
     "rows": 3,
     "sheet_height": 810,
     "sheet_width": 1920,
@@ -38,5 +38,5 @@
   },
   "schema_version": 3,
   "tag": "DEVS MOMMY",
-  "updated_at": "2026-09-04T04:41:20+00:00"
+  "updated_at": "2026-09-04T04:48:58+00:00"
 }
