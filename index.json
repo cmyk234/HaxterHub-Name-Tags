@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-09-04T04:41:22+00:00",
+  "updated_at": "2026-09-04T04:49:00+00:00",
   "users": {
     "1020060059065066068062068": {
       "discord_owner_hash": "75d0016b0ef73951eb8521b8314ba9d9324b93104f405bd317508ffbf332821f",
@@ -36,8 +36,8 @@
     "1020062060066065067060066062062": {
       "discord_owner_hash": "702661e21a5044fbc505a6604a29e8cb26b8b1d414ecb3230c1c88e492482fbb",
       "display_name": "minxty",
-      "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/fe9bb2b80af0fcc953dbd66050836f2fcbbeee6d/nametags/1020062060066065067060066062062.json",
-      "updated_at": "2026-09-04T04:41:20+00:00",
+      "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/437e5c48dd60f462a1f4a001190b2d1c15aa87a9/nametags/1020062060066065067060066062062.json",
+      "updated_at": "2026-09-04T04:48:58+00:00",
       "username": "topazcupcake"
     },
     "1020062063068065062063059067": {
