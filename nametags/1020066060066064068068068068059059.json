@@ -1,4 +1,13 @@
 {
+  "audio": {
+    "bytes": 411739,
+    "enabled": true,
+    "extension": "mp3",
+    "kind": "audio",
+    "looped": false,
+    "mime": "audio/mpeg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/5f53fcb68033d7ef863d2ea321ba1543a6b3a823/assets/1020066060066064068068068068059059/audio.mp3"
+  },
   "background": {
     "bytes": 2072313,
     "columns": 8,
@@ -25,7 +34,7 @@
     "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/5ae09aa76557043aa249184bd13fef8b0293e0a4/assets/1020066060066064068068068068059059/profile.png",
     "width": 256
   },
-  "schema_version": 2,
+  "schema_version": 3,
   "tag": "ANEX",
-  "updated_at": "2026-09-03T11:08:04+00:00"
+  "updated_at": "2026-09-04T09:20:02+00:00"
 }
