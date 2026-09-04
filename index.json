@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-09-04T04:49:35+00:00",
+  "updated_at": "2026-09-04T09:20:05+00:00",
   "users": {
     "1020060059065066068062068": {
       "discord_owner_hash": "75d0016b0ef73951eb8521b8314ba9d9324b93104f405bd317508ffbf332821f",
@@ -68,8 +68,10 @@
     },
     "1020066060066064068068068068059059": {
       "discord_owner_hash": "75d0016b0ef73951eb8521b8314ba9d9324b93104f405bd317508ffbf332821f",
-      "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/20da1fa8bbd20ffa413f91cfe3572a64b1cd47cc/nametags/1020066060066064068068068068059059.json",
-      "updated_at": "2026-09-03T11:08:04+00:00"
+      "display_name": "HepatitusFrog",
+      "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/0fb08668fbd465820918960e28f12f60a90d781b/nametags/1020066060066064068068068068059059.json",
+      "updated_at": "2026-09-04T09:20:02+00:00",
+      "username": "WhereIsMyFatherTvT"
     }
   }
 }
