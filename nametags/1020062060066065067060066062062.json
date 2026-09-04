@@ -9,19 +9,21 @@
     "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/35f3d5548833ab91a83d275d713e92ccae4fa8fc/assets/1020062060066065067060066062062/audio.mp3"
   },
   "background": {
-    "bytes": 315242,
+    "bytes": 55099,
     "columns": 4,
     "extension": "jpg",
     "fps": 10.0,
     "frame_count": 10,
     "frame_height": 270,
     "frame_width": 480,
-    "kind": "spritesheet",
+    "height": 540,
+    "kind": "image",
     "mime": "image/jpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/7f856baa468b251433eb0482913d5a4d0459b07f/assets/1020062060066065067060066062062/background.jpg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/e44f7d503be7d2f414353efae10504bf9061f288/assets/1020062060066065067060066062062/background.jpg",
     "rows": 3,
     "sheet_height": 810,
-    "sheet_width": 1920
+    "sheet_width": 1920,
+    "width": 960
   },
   "discord_owner_hash": "702661e21a5044fbc505a6604a29e8cb26b8b1d414ecb3230c1c88e492482fbb",
   "encoded_roblox_user_id": "1020062060066065067060066062062",
@@ -36,5 +38,5 @@
   },
   "schema_version": 3,
   "tag": "DEVS MOMMY",
-  "updated_at": "2026-09-04T04:31:42+00:00"
+  "updated_at": "2026-09-04T04:33:27+00:00"
 }
