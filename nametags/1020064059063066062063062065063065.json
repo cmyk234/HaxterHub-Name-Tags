@@ -18,7 +18,7 @@
     "frame_width": 480,
     "kind": "spritesheet",
     "mime": "image/jpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/9a3de5b3c7dbd1b118f80f0664cfc994a3532f96/assets/1020064059063066062063062065063065/background.jpg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/5d7c9ba74f309186c0a36855abcb9a806175d741/assets/1020064059063066062063062065063065/background.jpg",
     "rows": 11,
     "sheet_height": 2970,
     "sheet_width": 3840
@@ -36,5 +36,5 @@
   },
   "schema_version": 3,
   "tag": "ANIMATOR/STAFF",
-  "updated_at": "2026-09-05T02:54:34+00:00"
+  "updated_at": "2026-09-05T03:02:41+00:00"
 }
