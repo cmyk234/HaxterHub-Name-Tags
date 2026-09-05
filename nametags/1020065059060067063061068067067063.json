@@ -44,5 +44,6 @@
   },
   "schema_version": 3,
   "tag": "DEV",
-  "updated_at": "2026-09-05T03:04:41+00:00"
+  "tag_color": "#C184FF",
+  "updated_at": "2026-09-05T03:10:04+00:00"
 }
