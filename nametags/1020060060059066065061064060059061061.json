@@ -1,4 +1,13 @@
 {
+  "audio": {
+    "bytes": 1289821,
+    "enabled": true,
+    "extension": "mp3",
+    "kind": "audio",
+    "looped": false,
+    "mime": "audio/mpeg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/9e93110031028b39cd97ab4ad72cac0aba90dd96/assets/1020060060059066065061064060059061061/audio.mp3"
+  },
   "background": {
     "bytes": 1634778,
     "columns": 8,
@@ -27,5 +36,5 @@
   },
   "schema_version": 3,
   "tag": "ANIMATOR/STAFF",
-  "updated_at": "2026-09-06T08:40:26+00:00"
+  "updated_at": "2026-09-06T08:56:05+00:00"
 }
