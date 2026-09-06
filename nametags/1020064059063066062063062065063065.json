@@ -18,7 +18,7 @@
     "frame_width": 480,
     "kind": "spritesheet",
     "mime": "image/jpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/c11a23851ddc925e9d967c77257632a434a3021d/assets/1020064059063066062063062065063065/background.jpg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/916285779f4ca269a668eb9a1fe1c0eb1d4eaa9a/assets/1020064059063066062063062065063065/background.jpg",
     "rows": 12,
     "sheet_height": 3240,
     "sheet_width": 3840
@@ -31,10 +31,11 @@
     "height": 256,
     "kind": "image",
     "mime": "image/png",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/2f7352a908a56c064c934758a71eb7ddb81ba9c8/assets/1020064059063066062063062065063065/profile.png",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/1a6ae748b4edbc5c9e617672ccdb5cbaab1611e6/assets/1020064059063066062063062065063065/profile.png",
     "width": 256
   },
   "schema_version": 3,
   "tag": "ANIMATOR/STAFF",
-  "updated_at": "2026-09-06T04:14:28+00:00"
+  "tag_color": "#58DDE8",
+  "updated_at": "2026-09-06T14:48:28+00:00"
 }
