@@ -1,12 +1,12 @@
 {
   "audio": {
-    "bytes": 3421550,
+    "bytes": 3059598,
     "enabled": true,
     "extension": "mp3",
     "kind": "audio",
     "looped": false,
     "mime": "audio/mpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/8895dc9b19d6c4c98081bb9a12dfd74e5c740bc7/assets/1020065059060067063061068067067063/audio.mp3"
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/68cd5965de9459ac3946760e2ddb37219f201769/assets/1020065059060067063061068067067063/audio.mp3"
   },
   "background": {
     "bytes": 2083201,
@@ -18,7 +18,7 @@
     "frame_width": 480,
     "kind": "spritesheet",
     "mime": "image/jpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/499427817ace70c855d5fb9d16d1a8ac9f8577e3/assets/1020065059060067063061068067067063/background.jpg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/fa003e58094f626b689e6dc6d420404f7bd45d3d/assets/1020065059060067063061068067067063/background.jpg",
     "rows": 12,
     "sheet_height": 3240,
     "sheet_width": 3840
@@ -26,7 +26,7 @@
   "discord_owner_hash": "75d0016b0ef73951eb8521b8314ba9d9324b93104f405bd317508ffbf332821f",
   "encoded_roblox_user_id": "1020065059060067063061068067067063",
   "profile": {
-    "bytes": 55004,
+    "bytes": 67871,
     "columns": 4,
     "extension": "png",
     "fps": 10.0,
@@ -36,7 +36,7 @@
     "height": 256,
     "kind": "image",
     "mime": "image/png",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/b7ffd9c77c00e059cf9e4d3d7dc29f03dc86edba/assets/1020065059060067063061068067067063/profile.png",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/60ca401ba7a0e9f8a6bee9e0db3a79f5a83de7cb/assets/1020065059060067063061068067067063/profile.png",
     "rows": 3,
     "sheet_height": 480,
     "sheet_width": 640,
@@ -44,6 +44,6 @@
   },
   "schema_version": 3,
   "tag": "HAXTERHUB DEV",
-  "tag_color": "#FFD45C",
-  "updated_at": "2026-09-07T05:55:30+00:00"
+  "tag_color": "#C184FF",
+  "updated_at": "2026-09-07T06:15:52+00:00"
 }
