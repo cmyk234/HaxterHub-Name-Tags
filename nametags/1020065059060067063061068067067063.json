@@ -26,7 +26,7 @@
   "discord_owner_hash": "75d0016b0ef73951eb8521b8314ba9d9324b93104f405bd317508ffbf332821f",
   "encoded_roblox_user_id": "1020065059060067063061068067067063",
   "profile": {
-    "bytes": 55004,
+    "bytes": 67871,
     "columns": 8,
     "extension": "png",
     "fps": 15.0,
@@ -36,7 +36,7 @@
     "height": 256,
     "kind": "image",
     "mime": "image/png",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/a0431e3797308735233d46028de8efd2407d88cf/assets/1020065059060067063061068067067063/profile.png",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/e56bb5982cb51e55f9865ae7ade1f4387a5912a8/assets/1020065059060067063061068067067063/profile.png",
     "rows": 12,
     "sheet_height": 1920,
     "sheet_width": 1280,
@@ -45,5 +45,5 @@
   "schema_version": 3,
   "tag": "DEVELOPER",
   "tag_color": "#C184FF",
-  "updated_at": "2026-09-07T00:27:10+00:00"
+  "updated_at": "2026-09-07T00:31:03+00:00"
 }
