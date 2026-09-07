@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-09-07T13:12:31+00:00",
+  "updated_at": "2026-09-07T13:27:04+00:00",
   "users": {
     "1020060059065066068062068": {
       "discord_owner_hash": "75d0016b0ef73951eb8521b8314ba9d9324b93104f405bd317508ffbf332821f",
@@ -41,6 +41,13 @@
       "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/fce275c3965e02c83e8fb61cfaf63c72441a09b2/nametags/1020060060065061068059066064063067068.json",
       "updated_at": "2026-09-06T14:53:01+00:00",
       "username": "InvertedAnimations"
+    },
+    "1020061062068064060059067066": {
+      "discord_owner_hash": "75d0016b0ef73951eb8521b8314ba9d9324b93104f405bd317508ffbf332821f",
+      "display_name": "Null White",
+      "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/83f63a0d4307a3ecb225bf3f644c30f558108aa2/nametags/1020061062068064060059067066.json",
+      "updated_at": "2026-09-07T13:27:02+00:00",
+      "username": "addthemoney"
     },
     "1020061067063066060059068065": {
       "discord_owner_hash": "d00fa90483c6c4eafd50ad7fb47a548784d2dcc89962b68c001081b9ecbb2c06",
