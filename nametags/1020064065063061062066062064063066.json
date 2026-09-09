@@ -1,11 +1,11 @@
 {
   "background": {
-    "bytes": 72630,
+    "bytes": 26704,
     "extension": "jpg",
     "height": 540,
     "kind": "image",
     "mime": "image/jpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/80034863b83c8e50b26d0f5b39e853000ee6900b/assets/1020064065063061062066062064063066/background.jpg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/941392c880f452bda9f7b5b526eaca0fb5a87517/assets/1020064065063061062066062064063066/background.jpg",
     "width": 960
   },
   "discord_owner_hash": "e98f44d22cc51fde34963a3f36b72717fa26f660f63c3cc37542c02c6e637e6a",
@@ -21,5 +21,6 @@
   },
   "schema_version": 3,
   "tag": "THAT BITCH",
-  "updated_at": "2026-09-09T15:24:22+00:00"
+  "tag_color": "#6EA8FF",
+  "updated_at": "2026-09-09T15:25:30+00:00"
 }
