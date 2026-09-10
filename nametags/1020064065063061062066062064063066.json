@@ -1,4 +1,13 @@
 {
+  "audio": {
+    "bytes": 8243755,
+    "enabled": true,
+    "extension": "mp3",
+    "kind": "audio",
+    "looped": false,
+    "mime": "audio/mpeg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/d6069415236c6527f270335a91c9c1c5dede1f59/assets/1020064065063061062066062064063066/audio.mp3"
+  },
   "background": {
     "bytes": 26704,
     "extension": "jpg",
@@ -22,5 +31,5 @@
   "schema_version": 3,
   "tag": "CALL ME MOMMY",
   "tag_color": "#6EA8FF",
-  "updated_at": "2026-09-10T20:08:40+00:00"
+  "updated_at": "2026-09-10T20:14:54+00:00"
 }
