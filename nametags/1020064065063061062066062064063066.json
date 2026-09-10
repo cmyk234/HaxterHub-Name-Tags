@@ -10,8 +10,17 @@
   },
   "discord_owner_hash": "e98f44d22cc51fde34963a3f36b72717fa26f660f63c3cc37542c02c6e637e6a",
   "encoded_roblox_user_id": "1020064065063061062066062064063066",
+  "profile": {
+    "bytes": 118802,
+    "extension": "png",
+    "height": 256,
+    "kind": "image",
+    "mime": "image/png",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/89f9ba86348aafadeec02407f9ea17fc0cfb8f53/assets/1020064065063061062066062064063066/profile.png",
+    "width": 256
+  },
   "schema_version": 3,
   "tag": "CALL ME MOMMY",
   "tag_color": "#6EA8FF",
-  "updated_at": "2026-09-10T20:04:43+00:00"
+  "updated_at": "2026-09-10T20:08:40+00:00"
 }
