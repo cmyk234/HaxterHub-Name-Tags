@@ -1,8 +1,17 @@
 {
   "discord_owner_hash": "75d0016b0ef73951eb8521b8314ba9d9324b93104f405bd317508ffbf332821f",
   "encoded_roblox_user_id": "1020060060065063064065060059068065060",
+  "profile": {
+    "bytes": 67871,
+    "extension": "png",
+    "height": 256,
+    "kind": "image",
+    "mime": "image/png",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/96dd2efa47662889f984809032b4e4d40a29f22c/assets/1020060060065063064065060059068065060/profile.png",
+    "width": 256
+  },
   "schema_version": 3,
   "tag": "KIDS",
   "tag_color": "#000000",
-  "updated_at": "2026-09-10T02:44:24+00:00"
+  "updated_at": "2026-09-10T02:45:27+00:00"
 }
