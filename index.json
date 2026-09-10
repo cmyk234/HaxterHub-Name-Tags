@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-09-10T02:14:59+00:00",
+  "updated_at": "2026-09-10T02:16:11+00:00",
   "users": {
     "1020060059065066068062068": {
       "discord_owner_hash": "75d0016b0ef73951eb8521b8314ba9d9324b93104f405bd317508ffbf332821f",
@@ -42,6 +42,13 @@
       "updated_at": "2026-09-03T23:51:38+00:00",
       "username": "opmcrtv"
     },
+    "1020060060064066061066067059060062068": {
+      "discord_owner_hash": "ef1a61464931e117efa0ea59a921960d97e4171f673c0ae15832578359a9f268",
+      "display_name": "RocketRecruit",
+      "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/7e3d9a91389bf1016166a6d4d81479396571309f/nametags/1020060060064066061066067059060062068.json",
+      "updated_at": "2026-09-10T02:15:53+00:00",
+      "username": "RocketRecruit"
+    },
     "1020060060065061068059066064063067068": {
       "discord_owner_hash": "afa15b0401d05f2e0868c71cada94af8ef759b0b9c8530bdc2d84b0712f57b48",
       "display_name": "InvertSec",
@@ -55,13 +62,6 @@
       "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/cb48e047355a6b0de145f9af2749c05cb506c402/nametags/1020061067063066060059068065.json",
       "updated_at": "2026-09-07T00:34:54+00:00",
       "username": "lilbee1421"
-    },
-    "1020061068065064066067064060062062": {
-      "discord_owner_hash": "ef1a61464931e117efa0ea59a921960d97e4171f673c0ae15832578359a9f268",
-      "display_name": "Shabriri",
-      "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/227273f69a3b45473a0fb649b002966e9ba02bc7/nametags/1020061068065064066067064060062062.json",
-      "updated_at": "2026-09-10T02:14:46+00:00",
-      "username": "Skidurm"
     },
     "1020062060065064060061068068067": {
       "discord_owner_hash": "e5eebb3ed6db2776836344a75e466b760cde2ebd910a9c4e3e48aac2f51548e7",
