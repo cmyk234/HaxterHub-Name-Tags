@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-09-10T04:06:21+00:00",
+  "updated_at": "2026-09-10T15:08:23+00:00",
   "users": {
     "1020060059065066068062068": {
       "discord_owner_hash": "75d0016b0ef73951eb8521b8314ba9d9324b93104f405bd317508ffbf332821f",
@@ -31,8 +31,8 @@
     "1020060060062067063060063068061066064": {
       "discord_owner_hash": "04ed08269b6c95b9d8627dd86067881ce3a0d7e3028e0c1939ad91718e69f46c",
       "display_name": "MyDearMelancholy",
-      "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/bac049e10cbcbe1c6af90fd7aada79e58040370c/nametags/1020060060062067063060063068061066064.json",
-      "updated_at": "2026-09-09T19:42:18+00:00",
+      "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/5ea3b4cf5211ce9211f2fd281b7c9afcbdf987a3/nametags/1020060060062067063060063068061066064.json",
+      "updated_at": "2026-09-10T15:08:17+00:00",
       "username": "korvaltpt3"
     },
     "1020060060063067061067059062065059060": {
