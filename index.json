@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-09-12T07:28:49+00:00",
+  "updated_at": "2026-09-12T07:30:11+00:00",
   "users": {
     "1020060059063063061067068066059066064": {
       "discord_owner_hash": "afa15b0401d05f2e0868c71cada94af8ef759b0b9c8530bdc2d84b0712f57b48",
@@ -99,13 +99,6 @@
       "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/23450c0f7350c78e75a5c6e21f67e7008fa53788/nametags/1020062060065064060061068068067.json",
       "updated_at": "2026-09-04T02:03:36+00:00",
       "username": "CliffyCoast"
-    },
-    "1020062063060066059060066066066066": {
-      "discord_owner_hash": "75d0016b0ef73951eb8521b8314ba9d9324b93104f405bd317508ffbf332821f",
-      "display_name": "Briar",
-      "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/a6d36a02bb62cb4d5a04059a6adb2acc7aca1301/nametags/1020062063060066059060066066066066.json",
-      "updated_at": "2026-09-12T07:07:10+00:00",
-      "username": "Briarmoons"
     },
     "1020062063068065062063059067": {
       "discord_owner_hash": "75d0016b0ef73951eb8521b8314ba9d9324b93104f405bd317508ffbf332821f",
