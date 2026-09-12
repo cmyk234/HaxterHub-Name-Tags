@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-09-12T08:47:32+00:00",
+  "updated_at": "2026-09-12T10:43:00+00:00",
   "users": {
     "1020060059063063061067068066059066064": {
       "discord_owner_hash": "afa15b0401d05f2e0868c71cada94af8ef759b0b9c8530bdc2d84b0712f57b48",
@@ -44,13 +44,6 @@
       "updated_at": "2026-09-10T20:04:31+00:00",
       "username": "korvaltpt3"
     },
-    "1020060060062067068061067068067062064": {
-      "discord_owner_hash": "759d7a394c05983af72622e921da3efdb54073d85d0f34a72abda21bee3c8d2f",
-      "display_name": "xur",
-      "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/1282fb78175d286755c68ff4c12c5e50197cbcaa/nametags/1020060060062067068061067068067062064.json",
-      "updated_at": "2026-09-12T05:00:01+00:00",
-      "username": "Watermalonnn83"
-    },
     "1020060060063061066064059062067062061": {
       "discord_owner_hash": "45a4b4608858f294abebc9b8f7366c06a9fa466afcd76b1a99e899969a0dbada",
       "display_name": "Spider",
@@ -85,6 +78,13 @@
       "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/1b28d180bbb6ef99f51372a48790cebafc49b783/nametags/1020060060065063064065060059068065060.json",
       "updated_at": "2026-09-10T04:06:20+00:00",
       "username": "IxvxX_XxvxI"
+    },
+    "1020060060065067063067066059068063": {
+      "discord_owner_hash": "759d7a394c05983af72622e921da3efdb54073d85d0f34a72abda21bee3c8d2f",
+      "display_name": "qzn",
+      "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/52228d6a4ee5bc601c12a59a404f8ed3c1841bbf/nametags/1020060060065067063067066059068063.json",
+      "updated_at": "2026-09-12T10:42:52+00:00",
+      "username": "qznszn"
     },
     "1020061067063066060059068065": {
       "discord_owner_hash": "d00fa90483c6c4eafd50ad7fb47a548784d2dcc89962b68c001081b9ecbb2c06",
