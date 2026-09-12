@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-09-12T07:07:11+00:00",
+  "updated_at": "2026-09-12T07:28:49+00:00",
   "users": {
     "1020060059063063061067068066059066064": {
       "discord_owner_hash": "afa15b0401d05f2e0868c71cada94af8ef759b0b9c8530bdc2d84b0712f57b48",
@@ -50,6 +50,13 @@
       "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/1282fb78175d286755c68ff4c12c5e50197cbcaa/nametags/1020060060062067068061067068067062064.json",
       "updated_at": "2026-09-12T05:00:01+00:00",
       "username": "Watermalonnn83"
+    },
+    "1020060060063061066064059062067062061": {
+      "discord_owner_hash": "45a4b4608858f294abebc9b8f7366c06a9fa466afcd76b1a99e899969a0dbada",
+      "display_name": "Spider",
+      "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/45b217a761c71d727318bc85a31f14b91ff89978/nametags/1020060060063061066064059062067062061.json",
+      "updated_at": "2026-09-12T07:28:46+00:00",
+      "username": "HanahakiSpiderLily"
     },
     "1020060060063067061067059062065059060": {
       "discord_owner_hash": "75d0016b0ef73951eb8521b8314ba9d9324b93104f405bd317508ffbf332821f",
