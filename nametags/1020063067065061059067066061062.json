@@ -1,15 +1,15 @@
 {
   "audio": {
-    "bytes": 736076,
+    "bytes": 3584737,
     "enabled": true,
     "extension": "mp3",
     "kind": "audio",
     "looped": false,
     "mime": "audio/mpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/a0feb75b5b7500053c91bf2ad25a1473f0b53ee0/assets/1020063067065061059067066061062/audio.mp3"
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/03a453c318cba938e5d2d38f12c9649732f4d33e/assets/1020063067065061059067066061062/audio.mp3"
   },
   "background": {
-    "bytes": 36954,
+    "bytes": 36985,
     "columns": 8,
     "extension": "jpg",
     "fps": 15.0,
@@ -19,7 +19,7 @@
     "height": 540,
     "kind": "image",
     "mime": "image/jpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/d1be21b8655ca068da3e6d17bf2988299d382873/assets/1020063067065061059067066061062/background.jpg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/5d9a22de2d3b9f06dfc6ee50054af7e84fbec28f/assets/1020063067065061059067066061062/background.jpg",
     "rows": 12,
     "sheet_height": 3240,
     "sheet_width": 3840,
@@ -33,11 +33,11 @@
     "height": 256,
     "kind": "image",
     "mime": "image/png",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/eefa7620ba1a1a5cd2dabef5a6e4d3f14007608b/assets/1020063067065061059067066061062/profile.png",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/44ee7375b1af4d4259dd3d357367d4dea9c9469f/assets/1020063067065061059067066061062/profile.png",
     "width": 256
   },
   "schema_version": 3,
   "tag": "ANEX",
-  "tag_color": "#58DDE8",
-  "updated_at": "2026-09-07T10:02:28+00:00"
+  "tag_color": "#6EA8FF",
+  "updated_at": "2026-09-13T10:22:55+00:00"
 }
