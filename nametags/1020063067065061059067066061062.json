@@ -1,43 +1,43 @@
 {
   "audio": {
-    "bytes": 884451,
+    "bytes": 603583,
     "enabled": true,
     "extension": "mp3",
     "kind": "audio",
     "looped": false,
     "mime": "audio/mpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/56758f820aad150f843044a3d533ca6ecc9a6e10/assets/1020063067065061059067066061062/audio.mp3"
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/a9cc2108e4a56a9122db3f48c565695f477dcf4e/assets/1020063067065061059067066061062/audio.mp3"
   },
   "background": {
-    "bytes": 101604,
+    "bytes": 1268666,
     "columns": 8,
     "extension": "jpg",
-    "fps": 15.0,
-    "frame_count": 90,
+    "fps": 10.0,
+    "frame_count": 50,
     "frame_height": 270,
     "frame_width": 480,
     "height": 540,
-    "kind": "image",
+    "kind": "spritesheet",
     "mime": "image/jpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/1c492ccc70f5ea1f8e4b5ea35c01d8164fb7e3c2/assets/1020063067065061059067066061062/background.jpg",
-    "rows": 12,
-    "sheet_height": 3240,
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/bde1392c276be3ec7ef93a3deef8af6c187f0433/assets/1020063067065061059067066061062/background.jpg",
+    "rows": 7,
+    "sheet_height": 1890,
     "sheet_width": 3840,
     "width": 960
   },
   "discord_owner_hash": "367a72c0358534a51ddd8a8610f2ad8183a55457cdfdfdc05566705a0dd573ec",
   "encoded_roblox_user_id": "1020063067065061059067066061062",
   "profile": {
-    "bytes": 115719,
+    "bytes": 48220,
     "extension": "png",
     "height": 256,
     "kind": "image",
     "mime": "image/png",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/cfad23c1f69b01e2efe46c2ff9c892b16443ca19/assets/1020063067065061059067066061062/profile.png",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/62dea2ce32ad0ec86accf2a378ee358f06d72bcd/assets/1020063067065061059067066061062/profile.png",
     "width": 256
   },
   "schema_version": 3,
   "tag": "ANEX",
-  "tag_color": "#6EA8FF",
-  "updated_at": "2026-09-13T10:35:05+00:00"
+  "tag_color": "#FF84B0",
+  "updated_at": "2026-09-14T16:57:23+00:00"
 }
