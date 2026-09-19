@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-09-19T02:21:55+00:00",
+  "updated_at": "2026-09-19T02:26:47+00:00",
   "users": {
     "1020060059063063061067068066059066064": {
       "discord_owner_hash": "afa15b0401d05f2e0868c71cada94af8ef759b0b9c8530bdc2d84b0712f57b48",
@@ -68,8 +68,8 @@
     "1020060060064066061066067059060062068": {
       "discord_owner_hash": "ef1a61464931e117efa0ea59a921960d97e4171f673c0ae15832578359a9f268",
       "display_name": "Tora",
-      "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/d12c6a84654d13ab37fb1d26980b2257e1e41bad/nametags/1020060060064066061066067059060062068.json",
-      "updated_at": "2026-09-19T02:21:52+00:00",
+      "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/9b32e6e23639e9e7f46c2eea8bb8a00e3de618b5/nametags/1020060060064066061066067059060062068.json",
+      "updated_at": "2026-09-19T02:26:46+00:00",
       "username": "RocketRecruit"
     },
     "1020060060065061068059066064063067068": {
