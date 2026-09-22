@@ -9,20 +9,20 @@
     "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/60e307a48b19f988894937445a7cef2c2f5e2b05/assets/1020060060062067063060063068061066064/audio.mp3"
   },
   "background": {
-    "bytes": 83490,
-    "columns": 4,
+    "bytes": 1146798,
+    "columns": 8,
     "extension": "jpg",
     "fps": 15.0,
-    "frame_count": 11,
+    "frame_count": 62,
     "frame_height": 270,
     "frame_width": 480,
     "height": 540,
-    "kind": "image",
+    "kind": "spritesheet",
     "mime": "image/jpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/0d53a4597b5e909767ab2183193cef4732b2033c/assets/1020060060062067063060063068061066064/background.jpg",
-    "rows": 3,
-    "sheet_height": 810,
-    "sheet_width": 1920,
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/6aac94f4057cfee3bcc9ced3a6a6b81e8fb53d98/assets/1020060060062067063060063068061066064/background.jpg",
+    "rows": 8,
+    "sheet_height": 2160,
+    "sheet_width": 3840,
     "width": 960
   },
   "discord_owner_hash": "04ed08269b6c95b9d8627dd86067881ce3a0d7e3028e0c1939ad91718e69f46c",
@@ -39,5 +39,5 @@
   "schema_version": 3,
   "tag": "THE WEAVER",
   "tag_color": "#000000",
-  "updated_at": "2026-09-22T11:47:29+00:00"
+  "updated_at": "2026-09-22T19:16:42+00:00"
 }
