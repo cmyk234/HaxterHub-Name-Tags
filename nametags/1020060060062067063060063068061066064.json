@@ -1,12 +1,12 @@
 {
   "audio": {
-    "bytes": 3076599,
+    "bytes": 2286865,
     "enabled": true,
     "extension": "mp3",
     "kind": "audio",
     "looped": false,
     "mime": "audio/mpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/ed2fc68e5c90e086b3cd49762c174593e83e1946/assets/1020060060062067063060063068061066064/audio.mp3"
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/60e307a48b19f988894937445a7cef2c2f5e2b05/assets/1020060060062067063060063068061066064/audio.mp3"
   },
   "background": {
     "bytes": 83490,
@@ -39,5 +39,5 @@
   "schema_version": 3,
   "tag": "THE WEAVER",
   "tag_color": "#000000",
-  "updated_at": "2026-09-22T11:46:51+00:00"
+  "updated_at": "2026-09-22T11:47:29+00:00"
 }
