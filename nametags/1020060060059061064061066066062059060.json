@@ -29,6 +29,7 @@
     "width": 256
   },
   "schema_version": 3,
-  "tag": "NAMETAG BUYER",
-  "updated_at": "2026-09-23T15:18:45+00:00"
+  "tag": "WHITE",
+  "tag_color": "#000000",
+  "updated_at": "2026-09-23T15:19:17+00:00"
 }
