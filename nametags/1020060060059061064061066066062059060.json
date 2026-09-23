@@ -1,4 +1,13 @@
 {
+  "audio": {
+    "bytes": 5683337,
+    "enabled": true,
+    "extension": "mp3",
+    "kind": "audio",
+    "looped": false,
+    "mime": "audio/mpeg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/848abdeaba290dba3465ef6df4249b9fa83cb72e/assets/1020060060059061064061066066062059060/audio.mp3"
+  },
   "background": {
     "bytes": 91906,
     "extension": "jpg",
@@ -21,5 +30,5 @@
   },
   "schema_version": 3,
   "tag": "NAMETAG BUYER",
-  "updated_at": "2026-09-23T15:16:37+00:00"
+  "updated_at": "2026-09-23T15:18:45+00:00"
 }
