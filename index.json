@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-09-23T15:19:18+00:00",
+  "updated_at": "2026-09-23T23:28:50+00:00",
   "users": {
     "1020060059063063061067068066059066064": {
       "discord_owner_hash": "afa15b0401d05f2e0868c71cada94af8ef759b0b9c8530bdc2d84b0712f57b48",
@@ -157,8 +157,8 @@
     "1020068063066059061067065068064060": {
       "discord_owner_hash": "fe227c46b535d9f38517837be2b4eccad76fdc7d6d769eb42f2fbf77b2502650",
       "display_name": "Scrubsz",
-      "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/2dd283721b2224c5c0bfb1a495f1d690587922df/nametags/1020068063066059061067065068064060.json",
-      "updated_at": "2026-09-06T14:32:31+00:00",
+      "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/f755fe6e6208c66e17f9614e0fef9d5c39a42806/nametags/1020068063066059061067065068064060.json",
+      "updated_at": "2026-09-23T23:28:41+00:00",
       "username": "idkboii_7"
     }
   }
