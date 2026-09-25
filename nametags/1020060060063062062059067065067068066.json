@@ -1,4 +1,13 @@
 {
+  "background": {
+    "bytes": 115467,
+    "extension": "jpg",
+    "height": 540,
+    "kind": "image",
+    "mime": "image/jpeg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/74eb8cb8cf28c46edc788f062851890de081fd25/assets/1020060060063062062059067065067068066/background.jpg",
+    "width": 960
+  },
   "discord_owner_hash": "eafb86c458522d9af68698865028e34435d0e0b4e8de2ae047ac29a33d554494",
   "encoded_roblox_user_id": "1020060060063062062059067065067068066",
   "profile": {
@@ -7,10 +16,11 @@
     "height": 256,
     "kind": "image",
     "mime": "image/png",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/23cdca9081af75646e8bb9bc9a36fff713c69e0c/assets/1020060060063062062059067065067068066/profile.png",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/28e2f9967bd6030753e4d32a817a6efa6f37c53b/assets/1020060060063062062059067065067068066/profile.png",
     "width": 256
   },
   "schema_version": 3,
-  "tag": "NAMETAG BUYER",
-  "updated_at": "2026-09-25T10:05:32+00:00"
+  "tag": "DADDY",
+  "tag_color": "#58DDE8",
+  "updated_at": "2026-09-25T10:06:43+00:00"
 }
