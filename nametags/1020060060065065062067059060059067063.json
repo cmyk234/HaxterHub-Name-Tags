@@ -6,30 +6,38 @@
     "kind": "audio",
     "looped": false,
     "mime": "audio/mpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/8cfcc35b5970f52128dacfc9be3edc2dd102ccef/assets/1020060060065065062067059060059067063/audio.mp3"
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/450baaa7e3147e7a928025c7d1eb757b2ee98e4f/assets/1020060060065065062067059060059067063/audio.mp3"
   },
   "background": {
-    "bytes": 57442,
+    "bytes": 46402,
     "extension": "jpg",
     "height": 540,
     "kind": "image",
     "mime": "image/jpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/e574a04f55f3af5df3ce5386af6abd4eafc78cef/assets/1020060060065065062067059060059067063/background.jpg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/073d39b5d49e2c620af213d0d8039d5815cd9da1/assets/1020060060065065062067059060059067063/background.jpg",
     "width": 960
   },
   "discord_owner_hash": "759d7a394c05983af72622e921da3efdb54073d85d0f34a72abda21bee3c8d2f",
   "encoded_roblox_user_id": "1020060060065065062067059060059067063",
   "profile": {
-    "bytes": 51082,
-    "extension": "png",
+    "bytes": 239593,
+    "columns": 7,
+    "extension": "jpg",
+    "fps": 14.286,
+    "frame_count": 41,
+    "frame_height": 160,
+    "frame_width": 160,
     "height": 256,
-    "kind": "image",
-    "mime": "image/png",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/e5fd1b713ae20a68eca6fd644e14778d030c6d23/assets/1020060060065065062067059060059067063/profile.png",
+    "kind": "spritesheet",
+    "mime": "image/jpeg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/f62582a779cfd0d9e029add825df296efab7ad1a/assets/1020060060065065062067059060059067063/profile.jpg",
+    "rows": 6,
+    "sheet_height": 960,
+    "sheet_width": 1120,
     "width": 256
   },
   "schema_version": 3,
-  "tag": "DADDY",
-  "tag_color": "#FF626F",
-  "updated_at": "2026-09-27T00:58:50+00:00"
+  "tag": "QUIZZY",
+  "tag_color": "#FF9D57",
+  "updated_at": "2026-09-27T02:49:50+00:00"
 }
