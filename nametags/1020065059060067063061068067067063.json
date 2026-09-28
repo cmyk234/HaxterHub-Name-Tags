@@ -9,7 +9,7 @@
     "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/59d0feb3c5ee757fe9ddbd8ecb67bba79116b06d/assets/1020065059060067063061068067067063/audio.mp3"
   },
   "background": {
-    "bytes": 2083201,
+    "bytes": 2286976,
     "columns": 8,
     "extension": "jpg",
     "fps": 15.0,
@@ -18,7 +18,7 @@
     "frame_width": 480,
     "kind": "spritesheet",
     "mime": "image/jpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/fa003e58094f626b689e6dc6d420404f7bd45d3d/assets/1020065059060067063061068067067063/background.jpg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/19943cc84df0aa7e7553a23154f91797a3e41ce7/assets/1020065059060067063061068067067063/background.jpg",
     "rows": 12,
     "sheet_height": 3240,
     "sheet_width": 3840
@@ -45,5 +45,5 @@
   "schema_version": 3,
   "tag": "FOUNDER",
   "tag_color": "#C184FF",
-  "updated_at": "2026-09-28T05:44:24+00:00"
+  "updated_at": "2026-09-28T05:53:03+00:00"
 }
