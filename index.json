@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-10-01T04:22:43+00:00",
+  "updated_at": "2026-10-01T04:28:02+00:00",
   "users": {
     "1020060059063063061067068066059066064": {
       "discord_owner_hash": "afa15b0401d05f2e0868c71cada94af8ef759b0b9c8530bdc2d84b0712f57b48",
@@ -113,6 +113,13 @@
       "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/ce83c3b1b498e1ef51109a6aa4ecb7005d6f8cf5/nametags/1020060060066059062061062063062067062.json",
       "updated_at": "2026-09-27T05:54:04+00:00",
       "username": "Sector2Inbound"
+    },
+    "1020060060066063062068066063066063059": {
+      "discord_owner_hash": "84ed0a4c85cf869311a477a4bf08bb7e5b9479b034136a4df308583d6dd82a5d",
+      "display_name": "bbc",
+      "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/11533188a4a412c62c24715c78825e4ec2073a17/nametags/1020060060066063062068066063066063059.json",
+      "updated_at": "2026-10-01T04:27:58+00:00",
+      "username": "jvis2ockwk200"
     },
     "1020060061059059060060065064063": {
       "discord_owner_hash": "afa15b0401d05f2e0868c71cada94af8ef759b0b9c8530bdc2d84b0712f57b48",
