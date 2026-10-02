@@ -6,7 +6,7 @@
     "kind": "audio",
     "looped": false,
     "mime": "audio/mpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/5c0543dded4a463b627256bcbc13cfe0ae11ccea/assets/1020060067063065064059066067059067/audio.mp3"
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/8c51de8033404a1356a3054d646914d285b6c791/assets/1020060067063065064059066067059067/audio.mp3"
   },
   "background": {
     "bytes": 77419,
@@ -14,7 +14,7 @@
     "height": 540,
     "kind": "image",
     "mime": "image/jpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/46331867e60198162b410c7b0b02971731f0f0b9/assets/1020060067063065064059066067059067/background.jpg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/2c711ecbf1e5dfb931de891498eaae501a85f7cc/assets/1020060067063065064059066067059067/background.jpg",
     "width": 960
   },
   "discord_owner_hash": "2f56bd7925c55244099cf3c01ffe564ca0e07ad1ef6100a346937142021342cf",
@@ -25,11 +25,11 @@
     "height": 256,
     "kind": "image",
     "mime": "image/png",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/b8874495f3dd1ac3fd576725eaa3fd59d49850b3/assets/1020060067063065064059066067059067/profile.png",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/e6e0cec6333b3bf7623a0da89f37f08ca79949fc/assets/1020060067063065064059066067059067/profile.png",
     "width": 256
   },
   "schema_version": 3,
-  "tag": "DARK",
+  "tag": "GOOD BOY",
   "tag_color": "#FF626F",
-  "updated_at": "2026-10-01T06:21:50+00:00"
+  "updated_at": "2026-10-02T09:46:13+00:00"
 }
