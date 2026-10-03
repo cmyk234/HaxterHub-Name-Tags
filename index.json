@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-10-03T00:38:35+00:00",
+  "updated_at": "2026-10-03T00:40:34+00:00",
   "users": {
     "1020060059063063061067068066059066064": {
       "discord_owner_hash": "afa15b0401d05f2e0868c71cada94af8ef759b0b9c8530bdc2d84b0712f57b48",
@@ -145,8 +145,8 @@
     "1020060067063065064059066067059067": {
       "discord_owner_hash": "2f56bd7925c55244099cf3c01ffe564ca0e07ad1ef6100a346937142021342cf",
       "display_name": "Dark",
-      "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/5d3d9663cd1b8bb87f13573bafc4d79976be619e/nametags/1020060067063065064059066067059067.json",
-      "updated_at": "2026-10-02T09:46:13+00:00",
+      "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/9a9b2505bef2481830eabc86d85229d05a0ffccc/nametags/1020060067063065064059066067059067.json",
+      "updated_at": "2026-10-03T00:40:33+00:00",
       "username": "25k_D4rkReap3r"
     },
     "1020061067063066060059068065": {
