@@ -1,4 +1,13 @@
 {
+  "background": {
+    "bytes": 105240,
+    "extension": "jpg",
+    "height": 540,
+    "kind": "image",
+    "mime": "image/jpeg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/f65e51bacdabd15ffc20e3b2be838ae1846c5fc3/assets/1020061064061059068064064068068065/background.jpg",
+    "width": 960
+  },
   "discord_owner_hash": "0f739d05cb69294960c58886f3ec012ec99af7686bd2db73c5ad35dce0c54ad1",
   "encoded_roblox_user_id": "1020061064061059068064064068068065",
   "profile": {
@@ -13,5 +22,5 @@
   "schema_version": 3,
   "tag": "NAMETAG BUYER",
   "tag_color": "#C184FF",
-  "updated_at": "2026-10-03T06:48:36+00:00"
+  "updated_at": "2026-10-03T06:49:33+00:00"
 }
