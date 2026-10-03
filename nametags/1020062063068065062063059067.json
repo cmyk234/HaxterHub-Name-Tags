@@ -19,7 +19,8 @@
     "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/ce0c90134d0c157f21a8ff7cde3590feb7c1c7c1/assets/1020062063068065062063059067/profile.png",
     "width": 256
   },
-  "schema_version": 2,
+  "schema_version": 3,
   "tag": "AK DEVELOPER",
-  "updated_at": "2026-09-03T20:40:25+00:00"
+  "tag_color": "#000000",
+  "updated_at": "2026-10-03T00:38:34+00:00"
 }
