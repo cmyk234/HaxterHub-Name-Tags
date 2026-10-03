@@ -1,4 +1,13 @@
 {
+  "audio": {
+    "bytes": 3068699,
+    "enabled": true,
+    "extension": "mp3",
+    "kind": "audio",
+    "looped": false,
+    "mime": "audio/mpeg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/b45d616be445cf57dffd9ea4036a66e7d06bb1b5/assets/1020061064061059068064064068068065/audio.mp3"
+  },
   "background": {
     "bytes": 105240,
     "extension": "jpg",
@@ -22,5 +31,5 @@
   "schema_version": 3,
   "tag": "TESTER",
   "tag_color": "#C184FF",
-  "updated_at": "2026-10-03T06:50:23+00:00"
+  "updated_at": "2026-10-03T06:50:56+00:00"
 }
