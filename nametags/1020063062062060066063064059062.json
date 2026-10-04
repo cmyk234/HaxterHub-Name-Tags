@@ -6,7 +6,7 @@
     "kind": "audio",
     "looped": false,
     "mime": "audio/mpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/52a58e9b0c15a44de12bb6aeab759302ab124b63/assets/1020063062062060066063064059062/audio.mp3"
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/2942495ab8847e6a829940d5808b1bce3b968ae4/assets/1020063062062060066063064059062/audio.mp3"
   },
   "background": {
     "bytes": 266200,
@@ -19,7 +19,7 @@
     "height": 540,
     "kind": "spritesheet",
     "mime": "image/jpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/f286f9fcb9dc091532b7f77e6230d65ae030c8ac/assets/1020063062062060066063064059062/background.jpg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/1941bea0bfbf3f48aa7d868aa9df5902d0669a33/assets/1020063062062060066063064059062/background.jpg",
     "rows": 4,
     "sheet_height": 1080,
     "sheet_width": 2400,
@@ -28,24 +28,24 @@
   "discord_owner_hash": "e43bf066bf39dbbe81f8ef7e6789bacffd08e07cba5a2301cb85194de1e037de",
   "encoded_roblox_user_id": "1020063062062060066063064059062",
   "profile": {
-    "bytes": 79968,
+    "bytes": 30822,
     "columns": 5,
     "extension": "jpg",
-    "fps": 11.111,
-    "frame_count": 18,
+    "fps": 10.0,
+    "frame_count": 20,
     "frame_height": 160,
     "frame_width": 160,
     "height": 256,
     "kind": "spritesheet",
     "mime": "image/jpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/63b2e14c8e8e2d39bc88fb3e472e7bb7d66675db/assets/1020063062062060066063064059062/profile.jpg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/442f7780f0fdc922a580611924ea7fd68249c1c9/assets/1020063062062060066063064059062/profile.jpg",
     "rows": 4,
     "sheet_height": 640,
     "sheet_width": 800,
     "width": 256
   },
   "schema_version": 3,
-  "tag": "ℭ𝔢𝔪𝔢𝔱𝔞𝔯𝔶",
+  "tag": "CEMETARY",
   "tag_color": "#F4F4F4",
-  "updated_at": "2026-10-04T14:26:33+00:00"
+  "updated_at": "2026-10-04T14:30:00+00:00"
 }
