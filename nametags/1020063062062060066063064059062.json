@@ -6,7 +6,7 @@
     "kind": "audio",
     "looped": false,
     "mime": "audio/mpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/fe8e39d5907048f292a141f768e4a14a65a4b101/assets/1020063062062060066063064059062/audio.mp3"
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/52a58e9b0c15a44de12bb6aeab759302ab124b63/assets/1020063062062060066063064059062/audio.mp3"
   },
   "background": {
     "bytes": 266200,
@@ -19,7 +19,7 @@
     "height": 540,
     "kind": "spritesheet",
     "mime": "image/jpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/777878fb1ef8b221d619c5ea9dc37baa91f7b801/assets/1020063062062060066063064059062/background.jpg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/f286f9fcb9dc091532b7f77e6230d65ae030c8ac/assets/1020063062062060066063064059062/background.jpg",
     "rows": 4,
     "sheet_height": 1080,
     "sheet_width": 2400,
@@ -28,24 +28,24 @@
   "discord_owner_hash": "e43bf066bf39dbbe81f8ef7e6789bacffd08e07cba5a2301cb85194de1e037de",
   "encoded_roblox_user_id": "1020063062062060066063064059062",
   "profile": {
-    "bytes": 96157,
-    "columns": 6,
+    "bytes": 79968,
+    "columns": 5,
     "extension": "jpg",
-    "fps": 7.692,
-    "frame_count": 27,
+    "fps": 11.111,
+    "frame_count": 18,
     "frame_height": 160,
     "frame_width": 160,
     "height": 256,
     "kind": "spritesheet",
     "mime": "image/jpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/adf33a6df9ba6db77fd6e465afde77cd5aeac707/assets/1020063062062060066063064059062/profile.jpg",
-    "rows": 5,
-    "sheet_height": 800,
-    "sheet_width": 960,
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/63b2e14c8e8e2d39bc88fb3e472e7bb7d66675db/assets/1020063062062060066063064059062/profile.jpg",
+    "rows": 4,
+    "sheet_height": 640,
+    "sheet_width": 800,
     "width": 256
   },
   "schema_version": 3,
-  "tag": "CEMETARY",
+  "tag": "ℭ𝔢𝔪𝔢𝔱𝔞𝔯𝔶",
   "tag_color": "#F4F4F4",
-  "updated_at": "2026-10-04T14:07:45+00:00"
+  "updated_at": "2026-10-04T14:26:33+00:00"
 }
