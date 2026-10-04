@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-10-03T06:51:00+00:00",
+  "updated_at": "2026-10-04T00:30:48+00:00",
   "users": {
     "1020060059063063061067068066059066064": {
       "discord_owner_hash": "afa15b0401d05f2e0868c71cada94af8ef759b0b9c8530bdc2d84b0712f57b48",
@@ -190,6 +190,13 @@
       "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/5398c05f840494b137451021a017436e30e47cab/nametags/1020062064063063064062060066062.json",
       "updated_at": "2026-09-27T00:11:27+00:00",
       "username": "winnerallday987"
+    },
+    "1020063062062060066063064059062": {
+      "discord_owner_hash": "e43bf066bf39dbbe81f8ef7e6789bacffd08e07cba5a2301cb85194de1e037de",
+      "display_name": "Fart_king",
+      "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/c3576514f15b119f8cd58921b5c86059a06953e4/nametags/1020063062062060066063064059062.json",
+      "updated_at": "2026-10-04T00:30:46+00:00",
+      "username": "CasonJoseph"
     },
     "1020063067065061059067066061062": {
       "discord_owner_hash": "367a72c0358534a51ddd8a8610f2ad8183a55457cdfdfdc05566705a0dd573ec",
