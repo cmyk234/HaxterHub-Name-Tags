@@ -1,36 +1,44 @@
 {
   "audio": {
-    "bytes": 514595,
+    "bytes": 805495,
     "enabled": true,
     "extension": "mp3",
     "kind": "audio",
     "looped": false,
     "mime": "audio/mpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/f71f2f25c8f2dda1f1bfd628e9bb55d90e46c912/assets/1020063062062060066063064059062/audio.mp3"
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/b8cf32f34098973279aa5cc17d23fdff0d431341/assets/1020063062062060066063064059062/audio.mp3"
   },
   "background": {
-    "bytes": 92814,
+    "bytes": 75015,
+    "columns": 5,
     "extension": "jpg",
+    "fps": 10.0,
+    "frame_count": 20,
+    "frame_height": 270,
+    "frame_width": 480,
     "height": 540,
-    "kind": "image",
+    "kind": "spritesheet",
     "mime": "image/jpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/71aa5e1c56cdcd2cb7b5034bf0373955192ae9cc/assets/1020063062062060066063064059062/background.jpg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/d311ee4423b159e58bc556fe716e5c031335ac4b/assets/1020063062062060066063064059062/background.jpg",
+    "rows": 4,
+    "sheet_height": 1080,
+    "sheet_width": 2400,
     "width": 960
   },
   "discord_owner_hash": "e43bf066bf39dbbe81f8ef7e6789bacffd08e07cba5a2301cb85194de1e037de",
   "encoded_roblox_user_id": "1020063062062060066063064059062",
   "profile": {
-    "bytes": 112518,
+    "bytes": 79968,
     "columns": 5,
     "extension": "jpg",
-    "fps": 10.0,
-    "frame_count": 17,
+    "fps": 11.111,
+    "frame_count": 18,
     "frame_height": 160,
     "frame_width": 160,
     "height": 256,
     "kind": "spritesheet",
     "mime": "image/jpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/1e57d355a4daf1fb56c97274a4b2a7aa5f0266da/assets/1020063062062060066063064059062/profile.jpg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/c91cdbff781f58b71949654c8128659618415f07/assets/1020063062062060066063064059062/profile.jpg",
     "rows": 4,
     "sheet_height": 640,
     "sheet_width": 800,
@@ -39,5 +47,5 @@
   "schema_version": 3,
   "tag": "EXOTIX",
   "tag_color": "#000000",
-  "updated_at": "2026-10-04T00:33:58+00:00"
+  "updated_at": "2026-10-04T09:42:37+00:00"
 }
