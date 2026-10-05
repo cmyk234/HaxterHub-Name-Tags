@@ -1,35 +1,51 @@
 {
   "audio": {
-    "bytes": 8298331,
+    "bytes": 5503889,
     "enabled": true,
     "extension": "mp3",
     "kind": "audio",
     "looped": false,
     "mime": "audio/mpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/9f4b2357c0163805aaa9577b75771a24f392cc92/assets/1020060060066061060060066062060067068/audio.mp3"
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/664143e7916675fb2f81277d4f16da3917e3bc08/assets/1020060060066061060060066062060067068/audio.mp3"
   },
   "background": {
-    "bytes": 73207,
+    "bytes": 266200,
+    "columns": 5,
     "extension": "jpg",
+    "fps": 10.0,
+    "frame_count": 19,
+    "frame_height": 270,
+    "frame_width": 480,
     "height": 540,
-    "kind": "image",
+    "kind": "spritesheet",
     "mime": "image/jpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/75b03673ec52e9427f41ff44eca08a81724317bc/assets/1020060060066061060060066062060067068/background.jpg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/79c82a4b993577911c0cee5631a6c3d88ff6e063/assets/1020060060066061060060066062060067068/background.jpg",
+    "rows": 4,
+    "sheet_height": 1080,
+    "sheet_width": 2400,
     "width": 960
   },
   "discord_owner_hash": "3ea52ac336a1f8542ff6ee7553871682b9fe2757d7439bfeb142ce2a7ba4d50a",
   "encoded_roblox_user_id": "1020060060066061060060066062060067068",
   "profile": {
-    "bytes": 54956,
-    "extension": "png",
+    "bytes": 42875,
+    "columns": 4,
+    "extension": "jpg",
+    "fps": 10.0,
+    "frame_count": 15,
+    "frame_height": 160,
+    "frame_width": 160,
     "height": 256,
-    "kind": "image",
-    "mime": "image/png",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/438f4125e621d402071d7b9c9781e34c94bd4f89/assets/1020060060066061060060066062060067068/profile.png",
+    "kind": "spritesheet",
+    "mime": "image/jpeg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/4844585b14409b603a2e00aef0543cc7bb5f9c1f/assets/1020060060066061060060066062060067068/profile.jpg",
+    "rows": 4,
+    "sheet_height": 640,
+    "sheet_width": 640,
     "width": 256
   },
   "schema_version": 3,
   "tag": "AFCET",
-  "tag_color": "#F4F4F4",
-  "updated_at": "2026-10-04T17:51:02+00:00"
+  "tag_color": "#000000",
+  "updated_at": "2026-10-05T11:46:28+00:00"
 }
