@@ -1,0 +1,32 @@
+{
+  "background": {
+    "bytes": 1574746,
+    "columns": 8,
+    "extension": "jpg",
+    "fps": 15.0,
+    "frame_count": 90,
+    "frame_height": 270,
+    "frame_width": 480,
+    "kind": "spritesheet",
+    "mime": "image/jpeg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/5bf24b3b53e2c5e5992d97810855a518915d4d41/assets/1020062064066062064061064065061065/background.jpg",
+    "rows": 12,
+    "sheet_height": 3240,
+    "sheet_width": 3840
+  },
+  "discord_owner_hash": "cfa760d9b7ba654d62ce85da3e0c596c3ba082804bd6fa380277ee8eebaf8e5a",
+  "encoded_roblox_user_id": "1020062064066062064061064065061065",
+  "profile": {
+    "bytes": 44639,
+    "extension": "png",
+    "height": 256,
+    "kind": "image",
+    "mime": "image/png",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/121804ea551f5049b1d8598485697964623762e0/assets/1020062064066062064061064065061065/profile.png",
+    "width": 256
+  },
+  "schema_version": 3,
+  "tag": "PAPI NULLBYTE",
+  "tag_color": "#F4F4F4",
+  "updated_at": "2026-10-08T21:30:04+00:00"
+}
