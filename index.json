@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-10-07T01:23:03+00:00",
+  "updated_at": "2026-10-08T00:36:55+00:00",
   "users": {
     "1020060059063063061067068066059066064": {
       "discord_owner_hash": "afa15b0401d05f2e0868c71cada94af8ef759b0b9c8530bdc2d84b0712f57b48",
@@ -201,8 +201,8 @@
     "1020063062062060066063064059062": {
       "discord_owner_hash": "e43bf066bf39dbbe81f8ef7e6789bacffd08e07cba5a2301cb85194de1e037de",
       "display_name": "Cemetary",
-      "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/ed0a27e6364cd397cd4916deafc623eb79b88649/nametags/1020063062062060066063064059062.json",
-      "updated_at": "2026-10-05T02:06:09+00:00",
+      "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/c3f14be6aa32d04aabc836ae9fc6615b40ac3161/nametags/1020063062062060066063064059062.json",
+      "updated_at": "2026-10-08T00:36:47+00:00",
       "username": "CasonJoseph"
     },
     "1020063067065061059067066061062": {
