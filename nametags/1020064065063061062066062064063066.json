@@ -1,0 +1,35 @@
+{
+  "audio": {
+    "bytes": 103336,
+    "enabled": true,
+    "extension": "mp3",
+    "kind": "audio",
+    "looped": false,
+    "mime": "audio/mpeg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/83f606d8f8e4d5e1b42b29fbc23c38a0fa2bfd15/assets/1020064065063061062066062064063066/audio.mp3"
+  },
+  "background": {
+    "bytes": 56416,
+    "extension": "jpg",
+    "height": 540,
+    "kind": "image",
+    "mime": "image/jpeg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/a8aac53234adcebe00653e9538ef038c363acbcb/assets/1020064065063061062066062064063066/background.jpg",
+    "width": 960
+  },
+  "discord_owner_hash": "dbc3ce6ffd105b7147c1e2df471df9bc1bb86d8a1e5c1147a9e7266247fa93a8",
+  "encoded_roblox_user_id": "1020064065063061062066062064063066",
+  "profile": {
+    "bytes": 15714,
+    "extension": "png",
+    "height": 256,
+    "kind": "image",
+    "mime": "image/png",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/931f5450033fb460de09af0e3be1668393a6fe86/assets/1020064065063061062066062064063066/profile.png",
+    "width": 256
+  },
+  "schema_version": 3,
+  "tag": "ONLINE EXTORTER",
+  "tag_color": "#FF626F",
+  "updated_at": "2026-10-09T08:45:45+00:00"
+}
