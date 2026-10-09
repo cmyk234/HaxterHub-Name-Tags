@@ -17,16 +17,24 @@
   "discord_owner_hash": "cfa760d9b7ba654d62ce85da3e0c596c3ba082804bd6fa380277ee8eebaf8e5a",
   "encoded_roblox_user_id": "1020062064066062064061064065061065",
   "profile": {
-    "bytes": 44639,
-    "extension": "png",
+    "bytes": 262004,
+    "columns": 8,
+    "extension": "jpg",
+    "fps": 15.0,
+    "frame_count": 90,
+    "frame_height": 160,
+    "frame_width": 160,
     "height": 256,
-    "kind": "image",
-    "mime": "image/png",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/121804ea551f5049b1d8598485697964623762e0/assets/1020062064066062064061064065061065/profile.png",
+    "kind": "spritesheet",
+    "mime": "image/jpeg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/153b6ff5a25ddebbf92ded99482cd47a2f34fae9/assets/1020062064066062064061064065061065/profile.jpg",
+    "rows": 12,
+    "sheet_height": 1920,
+    "sheet_width": 1280,
     "width": 256
   },
   "schema_version": 3,
   "tag": "PAPI NULLBYTE",
   "tag_color": "#F4F4F4",
-  "updated_at": "2026-10-08T21:30:04+00:00"
+  "updated_at": "2026-10-09T08:29:53+00:00"
 }
