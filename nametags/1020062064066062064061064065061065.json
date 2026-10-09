@@ -1,6 +1,15 @@
 {
+  "audio": {
+    "bytes": 3500870,
+    "enabled": true,
+    "extension": "mp3",
+    "kind": "audio",
+    "looped": false,
+    "mime": "audio/mpeg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/466ae25ca03588c6326b10602e5c2d5f7d24d2bd/assets/1020062064066062064061064065061065/audio.mp3"
+  },
   "background": {
-    "bytes": 1574746,
+    "bytes": 1043988,
     "columns": 8,
     "extension": "jpg",
     "fps": 15.0,
@@ -9,7 +18,7 @@
     "frame_width": 480,
     "kind": "spritesheet",
     "mime": "image/jpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/5bf24b3b53e2c5e5992d97810855a518915d4d41/assets/1020062064066062064061064065061065/background.jpg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/9d33f48d445d755e8ed4f37d67d5833c14b0de12/assets/1020062064066062064061064065061065/background.jpg",
     "rows": 12,
     "sheet_height": 3240,
     "sheet_width": 3840
@@ -17,24 +26,24 @@
   "discord_owner_hash": "cfa760d9b7ba654d62ce85da3e0c596c3ba082804bd6fa380277ee8eebaf8e5a",
   "encoded_roblox_user_id": "1020062064066062064061064065061065",
   "profile": {
-    "bytes": 262004,
+    "bytes": 24101,
     "columns": 8,
-    "extension": "jpg",
+    "extension": "png",
     "fps": 15.0,
     "frame_count": 90,
     "frame_height": 160,
     "frame_width": 160,
     "height": 256,
-    "kind": "spritesheet",
-    "mime": "image/jpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/153b6ff5a25ddebbf92ded99482cd47a2f34fae9/assets/1020062064066062064061064065061065/profile.jpg",
+    "kind": "image",
+    "mime": "image/png",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/b96abddb2e5f801d3e4e1fdacf72e2358f9a6606/assets/1020062064066062064061064065061065/profile.png",
     "rows": 12,
     "sheet_height": 1920,
     "sheet_width": 1280,
     "width": 256
   },
   "schema_version": 3,
-  "tag": "PAPI NULLBYTE",
-  "tag_color": "#F4F4F4",
-  "updated_at": "2026-10-09T08:29:53+00:00"
+  "tag": "NULLBYTE",
+  "tag_color": "#C184FF",
+  "updated_at": "2026-10-09T08:33:27+00:00"
 }
