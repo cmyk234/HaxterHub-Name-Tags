@@ -9,7 +9,7 @@
     "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/caedf5dddba0ca7a07095efe8db735b896bc055a/assets/1020060060065061068059066064063067068/audio.mp3"
   },
   "background": {
-    "bytes": 890943,
+    "bytes": 37972,
     "columns": 8,
     "extension": "jpg",
     "fps": 14.286,
@@ -17,9 +17,9 @@
     "frame_height": 270,
     "frame_width": 480,
     "height": 540,
-    "kind": "spritesheet",
+    "kind": "image",
     "mime": "image/jpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/78e211acac6eeac5402f9fec056640feaa2c97dd/assets/1020060060065061068059066064063067068/background.jpg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/5314ab1996895c6f8ad4ca36b305b04ba64ca5c2/assets/1020060060065061068059066064063067068/background.jpg",
     "rows": 12,
     "sheet_height": 3240,
     "sheet_width": 3840,
@@ -39,5 +39,5 @@
   "schema_version": 3,
   "tag": "+STAFF & ANIMATR",
   "tag_color": "#58DDE8",
-  "updated_at": "2026-10-10T07:29:50+00:00"
+  "updated_at": "2026-10-10T07:31:17+00:00"
 }
