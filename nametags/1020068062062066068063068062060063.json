@@ -1,0 +1,31 @@
+{
+  "audio": {
+    "bytes": 4272188,
+    "enabled": true,
+    "extension": "mp3",
+    "kind": "audio",
+    "looped": false,
+    "mime": "audio/mpeg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/db734565adce89d8777430c52c0b25bf4b6431af/assets/1020068062062066068063068062060063/audio.mp3"
+  },
+  "discord_owner_hash": "afa15b0401d05f2e0868c71cada94af8ef759b0b9c8530bdc2d84b0712f57b48",
+  "encoded_roblox_user_id": "1020068062062066068063068062060063",
+  "profile": {
+    "bytes": 428225,
+    "columns": 8,
+    "extension": "jpg",
+    "fps": 15.0,
+    "frame_count": 90,
+    "frame_height": 160,
+    "frame_width": 160,
+    "kind": "spritesheet",
+    "mime": "image/jpeg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/7c8009c43c037cb7feeab7c081c221d57e27828e/assets/1020068062062066068063068062060063/profile.jpg",
+    "rows": 12,
+    "sheet_height": 1920,
+    "sheet_width": 1280
+  },
+  "schema_version": 3,
+  "tag": "NAMETAG BUYER",
+  "updated_at": "2026-10-10T23:46:46+00:00"
+}
