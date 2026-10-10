@@ -1,41 +1,43 @@
 {
   "audio": {
-    "bytes": 6921725,
+    "bytes": 2690349,
     "enabled": true,
     "extension": "mp3",
     "kind": "audio",
     "looped": false,
     "mime": "audio/mpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/09750e0ee4dd84eb6f0cbffe26688236ad4ec6e8/assets/1020060060065061068059066064063067068/audio.mp3"
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/3a5b43aac794ae3949449c7ce67afb87faa1ab14/assets/1020060060065061068059066064063067068/audio.mp3"
   },
   "background": {
-    "bytes": 1238824,
+    "bytes": 28606,
     "columns": 8,
     "extension": "jpg",
     "fps": 15.0,
     "frame_count": 90,
     "frame_height": 270,
     "frame_width": 480,
-    "kind": "spritesheet",
+    "height": 540,
+    "kind": "image",
     "mime": "image/jpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/243726031425815e33ee679a26cf9babfa1dd695/assets/1020060060065061068059066064063067068/background.jpg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/fa998d21edb475ddc7f474ec2b8ec1a0cd140054/assets/1020060060065061068059066064063067068/background.jpg",
     "rows": 12,
     "sheet_height": 3240,
-    "sheet_width": 3840
+    "sheet_width": 3840,
+    "width": 960
   },
   "discord_owner_hash": "afa15b0401d05f2e0868c71cada94af8ef759b0b9c8530bdc2d84b0712f57b48",
   "encoded_roblox_user_id": "1020060060065061068059066064063067068",
   "profile": {
-    "bytes": 130522,
+    "bytes": 78087,
     "extension": "png",
     "height": 256,
     "kind": "image",
     "mime": "image/png",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/30a38f0a00a5ff0a6d2ed9e470326ea1843a32ac/assets/1020060060065061068059066064063067068/profile.png",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/197b7293d6a4199f51e404700426dfc1a2629ebc/assets/1020060060065061068059066064063067068/profile.png",
     "width": 256
   },
   "schema_version": 3,
-  "tag": "ANIMATOR/STAFF",
+  "tag": "+STAFF & ANIMATR",
   "tag_color": "#58DDE8",
-  "updated_at": "2026-09-06T14:53:01+00:00"
+  "updated_at": "2026-10-10T07:07:18+00:00"
 }
