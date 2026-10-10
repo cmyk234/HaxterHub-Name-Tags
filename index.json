@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-10-10T23:45:24+00:00",
+  "updated_at": "2026-10-10T23:46:55+00:00",
   "users": {
     "1020060059063063061067068066059066064": {
       "discord_owner_hash": "afa15b0401d05f2e0868c71cada94af8ef759b0b9c8530bdc2d84b0712f57b48",
@@ -253,6 +253,13 @@
       "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/dbd026aed954ed95db2e41befe9e818c55333a8d/nametags/1020066068060065068066062062060061.json",
       "updated_at": "2026-10-02T20:33:10+00:00",
       "username": "Reaaaalllshhhhhh"
+    },
+    "1020068062062066068063068062060063": {
+      "discord_owner_hash": "afa15b0401d05f2e0868c71cada94af8ef759b0b9c8530bdc2d84b0712f57b48",
+      "display_name": "salemcnc",
+      "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/d8edf68abdee0eece1a0c6cceb2bcc4fcef51a2e/nametags/1020068062062066068063068062060063.json",
+      "updated_at": "2026-10-10T23:46:46+00:00",
+      "username": "hainecro"
     },
     "1020068063066059061067065068064060": {
       "discord_owner_hash": "fe227c46b535d9f38517837be2b4eccad76fdc7d6d769eb42f2fbf77b2502650",
