@@ -1,12 +1,12 @@
 {
   "audio": {
-    "bytes": 592590,
+    "bytes": 1840064,
     "enabled": true,
     "extension": "mp3",
     "kind": "audio",
     "looped": false,
     "mime": "audio/mpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/a03c1c323fd02d5ee56845cab1263e4927c448ce/assets/1020065063059068065063066066/audio.mp3"
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/c944fb931cc4325ac102fa6a243cc2a4cd3094de/assets/1020065063059068065063066066/audio.mp3"
   },
   "background": {
     "bytes": 53209,
@@ -20,7 +20,7 @@
   "discord_owner_hash": "afa15b0401d05f2e0868c71cada94af8ef759b0b9c8530bdc2d84b0712f57b48",
   "encoded_roblox_user_id": "1020065063059068065063066066",
   "profile": {
-    "bytes": 247776,
+    "bytes": 428225,
     "columns": 8,
     "extension": "jpg",
     "fps": 15.0,
@@ -29,7 +29,7 @@
     "frame_width": 160,
     "kind": "spritesheet",
     "mime": "image/jpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/9186d0f99388ce45b9f0b9d9fd72cd291d138ecb/assets/1020065063059068065063066066/profile.jpg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/eda6dfb681c62c2885a33756e638409c9c06e7b4/assets/1020065063059068065063066066/profile.jpg",
     "rows": 12,
     "sheet_height": 1920,
     "sheet_width": 1280
@@ -37,5 +37,5 @@
   "schema_version": 3,
   "tag": "ANIMATOR",
   "tag_color": "#000000",
-  "updated_at": "2026-10-03T00:44:01+00:00"
+  "updated_at": "2026-10-10T23:45:16+00:00"
 }
