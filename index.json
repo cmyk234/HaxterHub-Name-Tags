@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-10-11T07:38:12+00:00",
+  "updated_at": "2026-10-11T07:45:49+00:00",
   "users": {
     "1020060059063063061067068066059066064": {
       "discord_owner_hash": "afa15b0401d05f2e0868c71cada94af8ef759b0b9c8530bdc2d84b0712f57b48",
@@ -82,8 +82,8 @@
     "1020060060065061068059066064063067068": {
       "discord_owner_hash": "afa15b0401d05f2e0868c71cada94af8ef759b0b9c8530bdc2d84b0712f57b48",
       "display_name": "InvertSec",
-      "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/3ca434d12a554e7c016f84461b98e00454cbe835/nametags/1020060060065061068059066064063067068.json",
-      "updated_at": "2026-10-11T07:38:10+00:00",
+      "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/e4cbe2604b3f04fce60f9c665ef11715f8bb91a9/nametags/1020060060065061068059066064063067068.json",
+      "updated_at": "2026-10-11T07:45:47+00:00",
       "username": "InvertedAnimations"
     },
     "1020060060065063064065060059068065060": {
