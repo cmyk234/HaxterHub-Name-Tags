@@ -1,0 +1,17 @@
+{
+  "audio": {
+    "bytes": 4288709,
+    "enabled": true,
+    "extension": "mp3",
+    "kind": "audio",
+    "looped": false,
+    "mime": "audio/mpeg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/699f1b9f5d522227f5fa5cbc049f4533e82d9c56/assets/1020060060066060059067059062064062066/audio.mp3"
+  },
+  "discord_owner_hash": "6e65cce2059c420732eb90f150164e7eceae9023afca0599058a9c08ef6614ae",
+  "encoded_roblox_user_id": "1020060060066060059067059062064062066",
+  "schema_version": 3,
+  "tag": "DADDY VAL",
+  "tag_color": "#FF626F",
+  "updated_at": "2026-10-14T00:07:26+00:00"
+}
