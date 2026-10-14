@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-10-13T20:41:53+00:00",
+  "updated_at": "2026-10-14T00:07:36+00:00",
   "users": {
     "1020060059063063061067068066059066064": {
       "discord_owner_hash": "afa15b0401d05f2e0868c71cada94af8ef759b0b9c8530bdc2d84b0712f57b48",
@@ -106,6 +106,13 @@
       "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/6bf3cf8a8c4a1483d556a4ccd9c86e2783c0502d/nametags/1020060060066059062061062063062067062.json",
       "updated_at": "2026-10-05T01:13:41+00:00",
       "username": "Sector2Inbound"
+    },
+    "1020060060066060059067059062064062066": {
+      "discord_owner_hash": "6e65cce2059c420732eb90f150164e7eceae9023afca0599058a9c08ef6614ae",
+      "display_name": "TheValAndOnly",
+      "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/aa5ebff601c6c4664e1ea3b6a69e7d064137fe71/nametags/1020060060066060059067059062064062066.json",
+      "updated_at": "2026-10-14T00:07:26+00:00",
+      "username": "TheValAndOnly"
     },
     "1020060060066061060060066062060067068": {
       "discord_owner_hash": "3ea52ac336a1f8542ff6ee7553871682b9fe2757d7439bfeb142ce2a7ba4d50a",
@@ -232,13 +239,6 @@
       "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/f11d225f392e23aeb6b799d5e2f754504aa06315/nametags/1020065059060067063061068067067063.json",
       "updated_at": "2026-10-11T10:49:31+00:00",
       "username": "HaxterFelix_Paragon"
-    },
-    "1020065059065065066064066064062": {
-      "discord_owner_hash": "6e65cce2059c420732eb90f150164e7eceae9023afca0599058a9c08ef6614ae",
-      "display_name": "Val",
-      "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/bc1da842323c49fef90b570c92598305bbead32e/nametags/1020065059065065066064066064062.json",
-      "updated_at": "2026-10-12T18:16:50+00:00",
-      "username": "ValiantEternal"
     },
     "1020065063059068065063066066": {
       "discord_owner_hash": "afa15b0401d05f2e0868c71cada94af8ef759b0b9c8530bdc2d84b0712f57b48",
