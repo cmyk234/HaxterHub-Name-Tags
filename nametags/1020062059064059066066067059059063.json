@@ -6,7 +6,16 @@
     "kind": "audio",
     "looped": false,
     "mime": "audio/mpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/466362e0a7a499ecb19463c2fa76bd282074be09/assets/1020062059064059066066067059059063/audio.mp3"
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/45004a938b245f1faf211d6a6852e990d58b8ae3/assets/1020062059064059066066067059059063/audio.mp3"
+  },
+  "background": {
+    "bytes": 25727,
+    "extension": "jpg",
+    "height": 540,
+    "kind": "image",
+    "mime": "image/jpeg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/8b47607a002a7c80dee72141e31e13997bed046c/assets/1020062059064059066066067059059063/background.jpg",
+    "width": 960
   },
   "discord_owner_hash": "7a9b567e608d09ce434a16dac8d59b4329ca64d0ad39c5d350de94923aac807b",
   "encoded_roblox_user_id": "1020062059064059066066067059059063",
@@ -16,10 +25,11 @@
     "height": 256,
     "kind": "image",
     "mime": "image/png",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/30d30d969b679d332a903f97efc08fbac767c744/assets/1020062059064059066066067059059063/profile.png",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/f971abce1feef05c3bd27135580b29c1d404d55e/assets/1020062059064059066066067059059063/profile.png",
     "width": 256
   },
   "schema_version": 3,
-  "tag": "NAMETAG BUYER",
-  "updated_at": "2026-10-14T22:03:10+00:00"
+  "tag": "HOUDINI",
+  "tag_color": "#FF626F",
+  "updated_at": "2026-10-14T22:05:40+00:00"
 }
