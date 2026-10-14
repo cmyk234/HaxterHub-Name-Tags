@@ -1,0 +1,32 @@
+{
+  "background": {
+    "bytes": 1052279,
+    "columns": 8,
+    "extension": "jpg",
+    "fps": 15.0,
+    "frame_count": 90,
+    "frame_height": 270,
+    "frame_width": 480,
+    "kind": "spritesheet",
+    "mime": "image/jpeg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/1d35a39cec3de1e627e0d37f937468104ffc7ab3/assets/1020067065068064062068067067062061/background.jpg",
+    "rows": 12,
+    "sheet_height": 3240,
+    "sheet_width": 3840
+  },
+  "discord_owner_hash": "f484c8084c9553df3962e96c440d95825ec5d7802e4665f4de2e37c5ef88c651",
+  "encoded_roblox_user_id": "1020067065068064062068067067062061",
+  "profile": {
+    "bytes": 124416,
+    "extension": "png",
+    "height": 256,
+    "kind": "image",
+    "mime": "image/png",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/d56826dcbb00ffd8999146bbf464c5cb8c4da133/assets/1020067065068064062068067067062061/profile.png",
+    "width": 256
+  },
+  "schema_version": 3,
+  "tag": "BIGGEST STONER",
+  "tag_color": "#C184FF",
+  "updated_at": "2026-10-14T16:39:07+00:00"
+}
