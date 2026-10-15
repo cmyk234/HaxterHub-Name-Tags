@@ -10,7 +10,16 @@
   },
   "discord_owner_hash": "ce249e9edd93e15a2109437c4c2e6fd0a16a33d2f65b7fa7fd17ac91b9fd5286",
   "encoded_roblox_user_id": "1020060060062060066061063064066063068",
+  "profile": {
+    "bytes": 61695,
+    "extension": "png",
+    "height": 256,
+    "kind": "image",
+    "mime": "image/png",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/311d10f00a3d4ce0828bb8186a80ca35bf3d2b56/assets/1020060060062060066061063064066063068/profile.png",
+    "width": 256
+  },
   "schema_version": 3,
   "tag": "LAMBE",
-  "updated_at": "2026-10-15T19:47:14+00:00"
+  "updated_at": "2026-10-15T22:07:45+00:00"
 }
