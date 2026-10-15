@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-10-15T19:26:38+00:00",
+  "updated_at": "2026-10-15T19:27:03+00:00",
   "users": {
     "1020060059063063061067068066059066064": {
       "discord_owner_hash": "afa15b0401d05f2e0868c71cada94af8ef759b0b9c8530bdc2d84b0712f57b48",
@@ -288,6 +288,13 @@
       "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/3e6006a5d3165f27012324a513b3fa48f2f98bcb/nametags/1020067065068064062068067067062061.json",
       "updated_at": "2026-10-14T17:04:22+00:00",
       "username": "AceisBasedl"
+    },
+    "1020067068062068060068067065066": {
+      "discord_owner_hash": "f87c2d260a0910d5f0ef5040ef4dc4a1f0bdaeffd4ff3bd7bf3c986415067a38",
+      "display_name": "curse",
+      "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/ce8b16809d7ff38e1437239414e0a49bf0e48072/nametags/1020067068062068060068067065066.json",
+      "updated_at": "2026-10-15T19:27:01+00:00",
+      "username": "stillcxrsed"
     },
     "1020068062062066068063068062060063": {
       "discord_owner_hash": "afa15b0401d05f2e0868c71cada94af8ef759b0b9c8530bdc2d84b0712f57b48",
