@@ -1,12 +1,12 @@
 {
   "audio": {
-    "bytes": 3078521,
+    "bytes": 1425177,
     "enabled": true,
     "extension": "mp3",
     "kind": "audio",
     "looped": false,
     "mime": "audio/mpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/dcb82695a5282b3c067f1fb592047513a4b938fa/assets/1020060060063067061067059062065059060/audio.mp3"
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/06ea655d5639b4171397c0321ab908c83947b5c4/assets/1020060060063067061067059062065059060/audio.mp3"
   },
   "background": {
     "bytes": 688150,
@@ -37,5 +37,5 @@
   "schema_version": 3,
   "tag": "ANIMATOR & STAFF",
   "tag_color": "#000000",
-  "updated_at": "2026-10-05T00:28:15+00:00"
+  "updated_at": "2026-10-16T10:14:23+00:00"
 }
