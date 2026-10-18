@@ -1,32 +1,41 @@
 {
+  "audio": {
+    "bytes": 2720423,
+    "enabled": true,
+    "extension": "mp3",
+    "kind": "audio",
+    "looped": false,
+    "mime": "audio/mpeg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/642bb5efc7788741f0636dfdd145bec2cc58357d/assets/1020067068062068060068067065066/audio.mp3"
+  },
   "background": {
-    "bytes": 586527,
-    "columns": 5,
+    "bytes": 93366,
+    "columns": 7,
     "extension": "jpg",
     "fps": 10.0,
-    "frame_count": 25,
+    "frame_count": 37,
     "frame_height": 270,
     "frame_width": 480,
     "kind": "spritesheet",
     "mime": "image/jpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/2bfed5876615867321baa11e4b0e5106b1ddddcd/assets/1020067068062068060068067065066/background.jpg",
-    "rows": 5,
-    "sheet_height": 1350,
-    "sheet_width": 2400
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/6bfbd56e1e596ce90cd9e82d2b7a8aa101f2ca26/assets/1020067068062068060068067065066/background.jpg",
+    "rows": 6,
+    "sheet_height": 1620,
+    "sheet_width": 3360
   },
   "discord_owner_hash": "f87c2d260a0910d5f0ef5040ef4dc4a1f0bdaeffd4ff3bd7bf3c986415067a38",
   "encoded_roblox_user_id": "1020067068062068060068067065066",
   "profile": {
-    "bytes": 66359,
+    "bytes": 65368,
     "extension": "png",
     "height": 256,
     "kind": "image",
     "mime": "image/png",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/558fcd251d56774e9b74cdc544f3149d43b31fac/assets/1020067068062068060068067065066/profile.png",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/ee682e8452bdbaad80d0bd351bbe09d9cfa53e1c/assets/1020067068062068060068067065066/profile.png",
     "width": 256
   },
   "schema_version": 3,
   "tag": "CURSE",
-  "tag_color": "#FF626F",
-  "updated_at": "2026-10-15T19:29:27+00:00"
+  "tag_color": "#000000",
+  "updated_at": "2026-10-18T14:17:19+00:00"
 }
