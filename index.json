@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-10-21T04:09:10+00:00",
+  "updated_at": "2026-10-21T19:39:42+00:00",
   "users": {
     "1020060059063063061067068066059066064": {
       "discord_owner_hash": "afa15b0401d05f2e0868c71cada94af8ef759b0b9c8530bdc2d84b0712f57b48",
@@ -100,6 +100,14 @@
       "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/e716603e50bef887c373b2c5f6b53fc5f2b791c6/nametags/1020060060063062062059067065067068066.json",
       "updated_at": "2026-09-25T10:06:43+00:00",
       "username": "Dudeone8967"
+    },
+    "1020060060063065063064068064060063067": {
+      "discord_owner_hash": "dbc3ce6ffd105b7147c1e2df471df9bc1bb86d8a1e5c1147a9e7266247fa93a8",
+      "display_name": "Musashi",
+      "entitlement": "permanent",
+      "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/b9c99d332df8ca8b57be5e85bb73b76df6bb3d99/nametags/1020060060063065063064068064060063067.json",
+      "updated_at": "2026-10-21T19:39:36+00:00",
+      "username": "souls_shinano6744"
     },
     "1020060060063067061067059062065059060": {
       "discord_owner_hash": "dbc3ce6ffd105b7147c1e2df471df9bc1bb86d8a1e5c1147a9e7266247fa93a8",
