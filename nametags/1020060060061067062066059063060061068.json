@@ -1,36 +1,44 @@
 {
   "audio": {
-    "bytes": 103336,
+    "bytes": 3928411,
     "enabled": true,
     "extension": "mp3",
     "kind": "audio",
     "looped": false,
     "mime": "audio/mpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/76acaf2255ca589bc2f38f12a1ee15e32d8ab6bc/assets/1020060060061067062066059063060061068/audio.mp3"
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/6685cf31621cd314a3f5418445950db51d52fa52/assets/1020060060061067062066059063060061068/audio.mp3"
   },
   "background": {
-    "bytes": 56416,
+    "bytes": 384187,
+    "columns": 6,
     "extension": "jpg",
+    "fps": 10.0,
+    "frame_count": 31,
+    "frame_height": 270,
+    "frame_width": 480,
     "height": 540,
-    "kind": "image",
+    "kind": "spritesheet",
     "mime": "image/jpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/621686a9074cacd46f72da8cd44dbde562ab829d/assets/1020060060061067062066059063060061068/background.jpg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/933e8df6aa38f1c5d9067563e010de13082147f5/assets/1020060060061067062066059063060061068/background.jpg",
+    "rows": 6,
+    "sheet_height": 1620,
+    "sheet_width": 2880,
     "width": 960
   },
   "discord_owner_hash": "3ae6b5b4b376999f8098cc3097f387127890c1c87e77c4a8780893d093b96991",
   "encoded_roblox_user_id": "1020060060061067062066059063060061068",
   "entitlement": "permanent",
   "profile": {
-    "bytes": 15714,
+    "bytes": 34128,
     "extension": "png",
     "height": 256,
     "kind": "image",
     "mime": "image/png",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/b19fe3643e333b5f16edd7ec63159d1c3a450871/assets/1020060060061067062066059063060061068/profile.png",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/2d062ccacb2cbfb2278b22bd16122f5d250baad8/assets/1020060060061067062066059063060061068/profile.png",
     "width": 256
   },
   "schema_version": 3,
   "tag": "V1PER",
-  "tag_color": "#FF626F",
-  "updated_at": "2026-10-21T04:07:23+00:00"
+  "tag_color": "#FF84B0",
+  "updated_at": "2026-10-21T04:09:02+00:00"
 }
