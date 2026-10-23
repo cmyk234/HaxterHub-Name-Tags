@@ -1,35 +1,44 @@
 {
   "audio": {
-    "bytes": 2287289,
+    "bytes": 2822444,
     "enabled": true,
-    "extension": "mp3",
+    "extension": "wav",
     "kind": "audio",
     "looped": false,
-    "mime": "audio/mpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/45004a938b245f1faf211d6a6852e990d58b8ae3/assets/1020062059064059066066067059059063/audio.mp3"
+    "mime": "audio/wav",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/b67581933295fc258cb0b16229f0f5e032558902/assets/1020062059064059066066067059059063/audio.wav"
   },
   "background": {
-    "bytes": 25727,
+    "bytes": 298492,
+    "columns": 3,
     "extension": "jpg",
+    "fps": 15.0,
+    "frame_count": 7,
+    "frame_height": 270,
+    "frame_width": 480,
     "height": 540,
-    "kind": "image",
+    "kind": "spritesheet",
     "mime": "image/jpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/8b47607a002a7c80dee72141e31e13997bed046c/assets/1020062059064059066066067059059063/background.jpg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/f258f5a38f12b599400a8098f7b90128f6da0d87/assets/1020062059064059066066067059059063/background.jpg",
+    "rows": 3,
+    "sheet_height": 810,
+    "sheet_width": 1440,
     "width": 960
   },
   "discord_owner_hash": "7a9b567e608d09ce434a16dac8d59b4329ca64d0ad39c5d350de94923aac807b",
   "encoded_roblox_user_id": "1020062059064059066066067059059063",
+  "entitlement": "permanent",
   "profile": {
-    "bytes": 74410,
+    "bytes": 101912,
     "extension": "png",
     "height": 256,
     "kind": "image",
     "mime": "image/png",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/f971abce1feef05c3bd27135580b29c1d404d55e/assets/1020062059064059066066067059059063/profile.png",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/f6ce5165f9bb1601641194e515e51c944faa54d8/assets/1020062059064059066066067059059063/profile.png",
     "width": 256
   },
   "schema_version": 3,
-  "tag": "HOUDINI",
-  "tag_color": "#FF626F",
-  "updated_at": "2026-10-14T22:05:40+00:00"
+  "tag": "HOUDINI/ANIMATOR",
+  "tag_color": "#FF84B0",
+  "updated_at": "2026-10-23T16:42:12+00:00"
 }
