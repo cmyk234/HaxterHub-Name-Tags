@@ -1,12 +1,12 @@
 {
   "audio": {
-    "bytes": 146126,
+    "bytes": 2979898,
     "enabled": true,
     "extension": "mp3",
     "kind": "audio",
     "looped": false,
     "mime": "audio/mpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/7495452509714bb2d421ce4eb52c83d3fdea62ec/assets/1020067065067059066064067061066/audio.mp3"
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/a4e3a99605218db611309f666317bf5dc7b252b6/assets/1020067065067059066064067061066/audio.mp3"
   },
   "background": {
     "bytes": 122561,
@@ -44,5 +44,5 @@
   "schema_version": 3,
   "tag": "FOXY",
   "tag_color": "#FF626F",
-  "updated_at": "2026-10-23T14:42:43+00:00"
+  "updated_at": "2026-10-23T23:34:49+00:00"
 }
