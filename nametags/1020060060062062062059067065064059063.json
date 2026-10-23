@@ -1,48 +1,52 @@
 {
   "audio": {
-    "bytes": 4868809,
+    "bytes": 3564836,
     "enabled": true,
     "extension": "mp3",
     "kind": "audio",
     "looped": false,
     "mime": "audio/mpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/cd04f64dcfea5a28f96e714bd37fb12ecf60ba98/assets/1020060060062062062059067065064059063/audio.mp3"
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/6f64bce6e2a5b106b734f0f9155afe4a92ab35c3/assets/1020060060062062062059067065064059063/audio.mp3"
   },
   "background": {
-    "bytes": 855814,
+    "bytes": 87754,
     "columns": 8,
     "extension": "jpg",
     "fps": 15.0,
     "frame_count": 90,
     "frame_height": 270,
     "frame_width": 480,
-    "kind": "spritesheet",
+    "height": 540,
+    "kind": "image",
     "mime": "image/jpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/44b04bec794ef52dcd4c4982b738ab8c9b3ddb3c/assets/1020060060062062062059067065064059063/background.jpg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/ec5cdf655da5b645a56534324a0e0cb0be5c0555/assets/1020060060062062062059067065064059063/background.jpg",
     "rows": 12,
     "sheet_height": 3240,
-    "sheet_width": 3840
+    "sheet_width": 3840,
+    "width": 960
   },
   "discord_owner_hash": "b278fd9334fa6930912a4e1c56562079934847628adac6c7a72c13c6d117a5e1",
   "encoded_roblox_user_id": "1020060060062062062059067065064059063",
   "entitlement": "permanent",
   "profile": {
-    "bytes": 94702,
+    "bytes": 73973,
     "columns": 5,
-    "extension": "jpg",
+    "extension": "png",
     "fps": 14.286,
     "frame_count": 22,
     "frame_height": 160,
     "frame_width": 160,
-    "kind": "spritesheet",
-    "mime": "image/jpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/2ae5eed60f82c8d3a463f8f048eaafca4d2cc490/assets/1020060060062062062059067065064059063/profile.jpg",
+    "height": 256,
+    "kind": "image",
+    "mime": "image/png",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/d67cb5d3b2708c76c8c542a623955cd74741179b/assets/1020060060062062062059067065064059063/profile.png",
     "rows": 5,
     "sheet_height": 800,
-    "sheet_width": 800
+    "sheet_width": 800,
+    "width": 256
   },
   "schema_version": 3,
-  "tag": "MOMMY M4TT",
-  "tag_color": "#C184FF",
-  "updated_at": "2026-10-23T23:40:16+00:00"
+  "tag": "M4TT",
+  "tag_color": "#F4F4F4",
+  "updated_at": "2026-10-23T23:48:46+00:00"
 }
