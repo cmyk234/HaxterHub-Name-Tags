@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-10-24T17:58:32+00:00",
+  "updated_at": "2026-10-24T22:11:49+00:00",
   "users": {
     "1020060059063063061067068066059066064": {
       "discord_owner_hash": "afa15b0401d05f2e0868c71cada94af8ef759b0b9c8530bdc2d84b0712f57b48",
@@ -161,6 +161,14 @@
       "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/ec9831733d8bc9b5f6942c1df9dafeec3c85d156/nametags/1020060060066059062061062063062067062.json",
       "updated_at": "2026-10-24T16:32:34+00:00",
       "username": "Sector2Inbound"
+    },
+    "1020060060066060059067059062064062066": {
+      "discord_owner_hash": "6e65cce2059c420732eb90f150164e7eceae9023afca0599058a9c08ef6614ae",
+      "display_name": "TheValAndOnly",
+      "entitlement": "permanent",
+      "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/b9da269f383f50ba8c96f8b602d76eceb907389b/nametags/1020060060066060059067059062064062066.json",
+      "updated_at": "2026-10-24T22:11:36+00:00",
+      "username": "TheValAndOnly"
     },
     "1020060060066066066059059066065063062": {
       "discord_owner_hash": "23e3942666b7089cab5b54fe280d1cade60f9cbaeb50d731f7b9b276bc8d5960",
@@ -335,14 +343,6 @@
       "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/f11d225f392e23aeb6b799d5e2f754504aa06315/nametags/1020065059060067063061068067067063.json",
       "updated_at": "2026-10-11T10:49:31+00:00",
       "username": "HaxterFelix_Paragon"
-    },
-    "1020065059065065066064066064062": {
-      "discord_owner_hash": "6e65cce2059c420732eb90f150164e7eceae9023afca0599058a9c08ef6614ae",
-      "display_name": "Val",
-      "entitlement": "permanent",
-      "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/3a70f3628e9c956e53a452b5782937ade37db77d/nametags/1020065059065065066064066064062.json",
-      "updated_at": "2026-10-21T00:44:59+00:00",
-      "username": "ValiantEternal"
     },
     "1020065063059068065063066066": {
       "discord_owner_hash": "afa15b0401d05f2e0868c71cada94af8ef759b0b9c8530bdc2d84b0712f57b48",
