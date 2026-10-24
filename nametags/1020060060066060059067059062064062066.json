@@ -1,0 +1,33 @@
+{
+  "audio": {
+    "bytes": 4288709,
+    "enabled": true,
+    "extension": "mp3",
+    "kind": "audio",
+    "looped": false,
+    "mime": "audio/mpeg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/a9800f04c83956ef1d05ebedddef2402a97bc7fa/assets/1020060060066060059067059062064062066/audio.mp3"
+  },
+  "discord_owner_hash": "6e65cce2059c420732eb90f150164e7eceae9023afca0599058a9c08ef6614ae",
+  "encoded_roblox_user_id": "1020060060066060059067059062064062066",
+  "entitlement": "permanent",
+  "profile": {
+    "bytes": 251406,
+    "columns": 7,
+    "extension": "jpg",
+    "fps": 12.5,
+    "frame_count": 39,
+    "frame_height": 160,
+    "frame_width": 160,
+    "kind": "spritesheet",
+    "mime": "image/jpeg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/b55a9f9ed7b7d934c84c1f9be7266c500e3cfccb/assets/1020060060066060059067059062064062066/profile.jpg",
+    "rows": 6,
+    "sheet_height": 960,
+    "sheet_width": 1120
+  },
+  "schema_version": 3,
+  "tag": "DADDY VAL",
+  "tag_color": "#FF626F",
+  "updated_at": "2026-10-24T22:11:36+00:00"
+}
