@@ -19,6 +19,7 @@
   },
   "discord_owner_hash": "ce249e9edd93e15a2109437c4c2e6fd0a16a33d2f65b7fa7fd17ac91b9fd5286",
   "encoded_roblox_user_id": "1020060060062060066061063064066063068",
+  "entitlement": "permanent",
   "profile": {
     "bytes": 77516,
     "extension": "png",
@@ -30,5 +31,6 @@
   },
   "schema_version": 3,
   "tag": "LAMBE",
-  "updated_at": "2026-10-16T21:57:38+00:00"
+  "tag_color": "#F4F4F4",
+  "updated_at": "2026-10-24T17:44:56+00:00"
 }
