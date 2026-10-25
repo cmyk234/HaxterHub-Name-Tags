@@ -9,12 +9,20 @@
     "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/19bc167bace4670b2bfcf1937a4c9228b5d7fc01/assets/1020063060067060067067066064068/audio.mp3"
   },
   "background": {
-    "bytes": 62241,
+    "bytes": 475141,
+    "columns": 4,
     "extension": "jpg",
+    "fps": 15.0,
+    "frame_count": 12,
+    "frame_height": 270,
+    "frame_width": 480,
     "height": 540,
-    "kind": "image",
+    "kind": "spritesheet",
     "mime": "image/jpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/415b22ccda7b8a5a6e09061ed5ed3d22bc9cc8f2/assets/1020063060067060067067066064068/background.jpg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/ae4b44f34aa13a3ac8b1f2e87d4c75e11b745d58/assets/1020063060067060067067066064068/background.jpg",
+    "rows": 3,
+    "sheet_height": 810,
+    "sheet_width": 1920,
     "width": 960
   },
   "discord_owner_hash": "ef1a61464931e117efa0ea59a921960d97e4171f673c0ae15832578359a9f268",
@@ -32,5 +40,5 @@
   "schema_version": 3,
   "tag": "SHABRIRI",
   "tag_color": "#F4F4F4",
-  "updated_at": "2026-10-25T13:30:27+00:00"
+  "updated_at": "2026-10-25T13:33:23+00:00"
 }
