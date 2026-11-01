@@ -1,48 +1,48 @@
 {
   "audio": {
-    "bytes": 306452,
+    "bytes": 1324182,
     "enabled": true,
     "extension": "mp3",
     "kind": "audio",
     "looped": false,
     "mime": "audio/mpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/fd99e77d6470782d45e8763865d5d365f37e7948/assets/1020063062062060066063064059062/audio.mp3"
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/28f8db89912e4607335469ebeb16a9b20021c44e/assets/1020063062062060066063064059062/audio.mp3"
   },
   "background": {
-    "bytes": 266200,
-    "columns": 5,
+    "bytes": 126723,
+    "columns": 4,
     "extension": "jpg",
     "fps": 10.0,
-    "frame_count": 19,
+    "frame_count": 10,
     "frame_height": 270,
     "frame_width": 480,
     "kind": "spritesheet",
     "mime": "image/jpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/b8baec2c87890b3061b2c0f6227542ecacf8a6c0/assets/1020063062062060066063064059062/background.jpg",
-    "rows": 4,
-    "sheet_height": 1080,
-    "sheet_width": 2400
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/03837d6fa70a1aa30b0df404ba48ef9b145d1c1c/assets/1020063062062060066063064059062/background.jpg",
+    "rows": 3,
+    "sheet_height": 810,
+    "sheet_width": 1920
   },
   "discord_owner_hash": "e43bf066bf39dbbe81f8ef7e6789bacffd08e07cba5a2301cb85194de1e037de",
   "encoded_roblox_user_id": "1020063062062060066063064059062",
   "entitlement": "permanent",
   "profile": {
-    "bytes": 30822,
-    "columns": 5,
+    "bytes": 168838,
+    "columns": 8,
     "extension": "jpg",
-    "fps": 10.0,
-    "frame_count": 20,
+    "fps": 15.0,
+    "frame_count": 90,
     "frame_height": 160,
     "frame_width": 160,
     "kind": "spritesheet",
     "mime": "image/jpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/ac1ecb47e00879c63fcf30fa8eeb6502ac3fa622/assets/1020063062062060066063064059062/profile.jpg",
-    "rows": 4,
-    "sheet_height": 640,
-    "sheet_width": 800
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/e98a5a61b1931e3a51cbdd7bc6e6ad760cae1d29/assets/1020063062062060066063064059062/profile.jpg",
+    "rows": 12,
+    "sheet_height": 1920,
+    "sheet_width": 1280
   },
   "schema_version": 3,
-  "tag": "CEMETARY",
-  "tag_color": "#000000",
-  "updated_at": "2026-10-28T19:39:15+00:00"
+  "tag": "CEMETARY<",
+  "tag_color": "#F4F4F4",
+  "updated_at": "2026-11-01T21:50:36+00:00"
 }
