@@ -1,36 +1,44 @@
 {
   "audio": {
-    "bytes": 103336,
+    "bytes": 5922062,
     "enabled": true,
     "extension": "mp3",
     "kind": "audio",
     "looped": false,
     "mime": "audio/mpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/edc970529f0a4d5bd3025aeb758feda7294e63d8/assets/1020062063063068066063063062065064/audio.mp3"
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/3e91b4560a62699ed27367948561847e78c3e745/assets/1020062063063068066063063062065064/audio.mp3"
   },
   "background": {
-    "bytes": 56416,
+    "bytes": 2973691,
+    "columns": 8,
     "extension": "jpg",
+    "fps": 14.286,
+    "frame_count": 90,
+    "frame_height": 270,
+    "frame_width": 480,
     "height": 540,
-    "kind": "image",
+    "kind": "spritesheet",
     "mime": "image/jpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/f36b138e375cd3b0ef9d7e42b1db853f62287e3f/assets/1020062063063068066063063062065064/background.jpg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/81d48114b1bb6a0e8e361a18cfbd4cfa9051e346/assets/1020062063063068066063063062065064/background.jpg",
+    "rows": 12,
+    "sheet_height": 3240,
+    "sheet_width": 3840,
     "width": 960
   },
   "discord_owner_hash": "58280d84fc9ec3f1f92bd32d96553cea3683ae8276a27c0f2a023978dec53f2c",
   "encoded_roblox_user_id": "1020062063063068066063063062065064",
   "entitlement": "permanent",
   "profile": {
-    "bytes": 15714,
+    "bytes": 81888,
     "extension": "png",
     "height": 256,
     "kind": "image",
     "mime": "image/png",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/7a3579fde88435fd4064b8aecbe17d051562bce0/assets/1020062063063068066063063062065064/profile.png",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/dfb99c0fe37162f0c1f44e3b3830c184d444fd56/assets/1020062063063068066063063062065064/profile.png",
     "width": 256
   },
   "schema_version": 3,
   "tag": "TRAUMA UNIT",
-  "tag_color": "#FF626F",
-  "updated_at": "2026-11-02T01:11:50+00:00"
+  "tag_color": "#65DB83",
+  "updated_at": "2026-11-02T01:13:08+00:00"
 }
