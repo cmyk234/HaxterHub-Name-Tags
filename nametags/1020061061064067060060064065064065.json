@@ -1,20 +1,20 @@
 {
   "audio": {
-    "bytes": 103336,
+    "bytes": 1954682,
     "enabled": true,
     "extension": "mp3",
     "kind": "audio",
     "looped": false,
     "mime": "audio/mpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/74347307d11dbd43cedc7b218a81b3bf1ff00eb4/assets/1020061061064067060060064065064065/audio.mp3"
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/9f9f55c1f769f278328fca47d9e0b5989278ab3b/assets/1020061061064067060060064065064065/audio.mp3"
   },
   "background": {
-    "bytes": 91989,
+    "bytes": 49559,
     "extension": "jpg",
     "height": 540,
     "kind": "image",
     "mime": "image/jpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/088ae16f38b4896ee6ce0a019837c41823bb1de7/assets/1020061061064067060060064065064065/background.jpg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/731c5dcc315e84103779f3c67e87e88b7fbb6db4/assets/1020061061064067060060064065064065/background.jpg",
     "width": 960
   },
   "discord_owner_hash": "eafb86c458522d9af68698865028e34435d0e0b4e8de2ae047ac29a33d554494",
@@ -26,11 +26,11 @@
     "height": 256,
     "kind": "image",
     "mime": "image/png",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/8f4251b0f01a63612167cb68941b9d71d86c578b/assets/1020061061064067060060064065064065/profile.png",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/a052e067384ee6b238a93103d271a047f7d002a9/assets/1020061061064067060060064065064065/profile.png",
     "width": 256
   },
   "schema_version": 3,
   "tag": "FRUITY",
   "tag_color": "#58DDE8",
-  "updated_at": "2026-11-02T23:03:37+00:00"
+  "updated_at": "2026-11-02T23:05:46+00:00"
 }
