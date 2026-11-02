@@ -1,0 +1,27 @@
+{
+  "background": {
+    "bytes": 59825,
+    "extension": "jpg",
+    "height": 540,
+    "kind": "image",
+    "mime": "image/jpeg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/efbae1e91f29672650aace20dbc4c4fdcdf6cab8/assets/1020060060066067060060064068064062060/background.jpg",
+    "width": 960
+  },
+  "discord_owner_hash": "84ed0a4c85cf869311a477a4bf08bb7e5b9479b034136a4df308583d6dd82a5d",
+  "encoded_roblox_user_id": "1020060060066067060060064068064062060",
+  "entitlement": "permanent",
+  "profile": {
+    "bytes": 74672,
+    "extension": "png",
+    "height": 256,
+    "kind": "image",
+    "mime": "image/png",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/fdb6d8abc82d5eeea27e49e6b8dc7c9ba467a429/assets/1020060060066067060060064068064062060/profile.png",
+    "width": 256
+  },
+  "schema_version": 3,
+  "tag": "JEW",
+  "tag_color": "#000000",
+  "updated_at": "2026-11-02T07:23:10+00:00"
+}
