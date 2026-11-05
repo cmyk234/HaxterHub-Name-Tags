@@ -6,22 +6,22 @@
     "kind": "audio",
     "looped": false,
     "mime": "audio/mpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/28f8db89912e4607335469ebeb16a9b20021c44e/assets/1020063062062060066063064059062/audio.mp3"
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/012182bcdbea032204862c31fe846e4238175eeb/assets/1020063062062060066063064059062/audio.mp3"
   },
   "background": {
-    "bytes": 126723,
-    "columns": 4,
+    "bytes": 209323,
+    "columns": 8,
     "extension": "jpg",
-    "fps": 10.0,
-    "frame_count": 10,
+    "fps": 15.0,
+    "frame_count": 54,
     "frame_height": 270,
     "frame_width": 480,
     "kind": "spritesheet",
     "mime": "image/jpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/03837d6fa70a1aa30b0df404ba48ef9b145d1c1c/assets/1020063062062060066063064059062/background.jpg",
-    "rows": 3,
-    "sheet_height": 810,
-    "sheet_width": 1920
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/e2cd50f8c7686d59c263b7c4614a12b0f29b617c/assets/1020063062062060066063064059062/background.jpg",
+    "rows": 7,
+    "sheet_height": 1890,
+    "sheet_width": 3840
   },
   "discord_owner_hash": "e43bf066bf39dbbe81f8ef7e6789bacffd08e07cba5a2301cb85194de1e037de",
   "encoded_roblox_user_id": "1020063062062060066063064059062",
@@ -36,13 +36,13 @@
     "frame_width": 160,
     "kind": "spritesheet",
     "mime": "image/jpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/e98a5a61b1931e3a51cbdd7bc6e6ad760cae1d29/assets/1020063062062060066063064059062/profile.jpg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/29ccb8bfa5292abea8cc59fff5561e44fb4ede14/assets/1020063062062060066063064059062/profile.jpg",
     "rows": 12,
     "sheet_height": 1920,
     "sheet_width": 1280
   },
   "schema_version": 3,
-  "tag": "CEMETARY<",
+  "tag": "CEM<3",
   "tag_color": "#F4F4F4",
-  "updated_at": "2026-11-01T21:50:36+00:00"
+  "updated_at": "2026-11-05T16:26:19+00:00"
 }
