@@ -9,12 +9,12 @@
     "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/71595185eb9b53ed30a46617bf827526195207a4/assets/1020060060063061066064059062067062061/audio.mp3"
   },
   "background": {
-    "bytes": 45318,
+    "bytes": 56416,
     "extension": "jpg",
     "height": 540,
     "kind": "image",
     "mime": "image/jpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/42007761c4cc1bd0ab3f37a5f725ef2b61722b00/assets/1020060060063061066064059062067062061/background.jpg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/c7c5640a6d57508cb5a6a61f0585e97db7229a03/assets/1020060060063061066064059062067062061/background.jpg",
     "width": 960
   },
   "discord_owner_hash": "dbc3ce6ffd105b7147c1e2df471df9bc1bb86d8a1e5c1147a9e7266247fa93a8",
@@ -32,5 +32,5 @@
   "schema_version": 3,
   "tag": "CONDO PLAYER",
   "tag_color": "#FF626F",
-  "updated_at": "2026-11-05T20:10:13+00:00"
+  "updated_at": "2026-11-05T20:11:32+00:00"
 }
