@@ -1,15 +1,15 @@
 {
   "audio": {
-    "bytes": 2848556,
+    "bytes": 3201069,
     "enabled": true,
     "extension": "mp3",
     "kind": "audio",
     "looped": false,
     "mime": "audio/mpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/2b53012850332675ef0212d6a6a0e6975ef811f9/assets/1020060060065061068059066064063067068/audio.mp3"
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/38aa1f49731693314a151debf0094290f7aade77/assets/1020060060065061068059066064063067068/audio.mp3"
   },
   "background": {
-    "bytes": 14047,
+    "bytes": 43812,
     "columns": 8,
     "extension": "jpg",
     "fps": 15.0,
@@ -19,7 +19,7 @@
     "height": 540,
     "kind": "image",
     "mime": "image/jpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/7d956832c152d10f1606a5a3df6eb12088ee55bf/assets/1020060060065061068059066064063067068/background.jpg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/dc321dd288d2c0e00dc6a7629b3bbafa50fa827f/assets/1020060060065061068059066064063067068/background.jpg",
     "rows": 7,
     "sheet_height": 1890,
     "sheet_width": 3840,
@@ -29,16 +29,16 @@
   "encoded_roblox_user_id": "1020060060065061068059066064063067068",
   "entitlement": "permanent",
   "profile": {
-    "bytes": 70609,
+    "bytes": 91517,
     "extension": "png",
     "height": 256,
     "kind": "image",
     "mime": "image/png",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/76d3848d9353fb8cbae38b3c0b8136aea7f3e76e/assets/1020060060065061068059066064063067068/profile.png",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/a6ea5f128f90a392a8b1a47e5bda8b2ad711bd5c/assets/1020060060065061068059066064063067068/profile.png",
     "width": 256
   },
   "schema_version": 3,
-  "tag": "SIN",
-  "tag_color": "#000000",
-  "updated_at": "2026-10-25T01:57:16+00:00"
+  "tag": "DESMANO",
+  "tag_color": "#FF626F",
+  "updated_at": "2026-11-06T01:03:24+00:00"
 }
