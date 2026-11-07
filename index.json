@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-07T17:22:35+00:00",
+  "updated_at": "2026-11-07T23:43:56+00:00",
   "users": {
     "1020060059063063061067068066059066064": {
       "discord_owner_hash": "afa15b0401d05f2e0868c71cada94af8ef759b0b9c8530bdc2d84b0712f57b48",
@@ -283,6 +283,14 @@
       "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/5398c05f840494b137451021a017436e30e47cab/nametags/1020062064063063064062060066062.json",
       "updated_at": "2026-09-27T00:11:27+00:00",
       "username": "winnerallday987"
+    },
+    "1020062066066066067064062066060059": {
+      "discord_owner_hash": "dbc3ce6ffd105b7147c1e2df471df9bc1bb86d8a1e5c1147a9e7266247fa93a8",
+      "display_name": "Mire",
+      "entitlement": "permanent",
+      "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/4ab2d67b8a8fe9c152642b7c70ea63e0c9bee79f/nametags/1020062066066066067064062066060059.json",
+      "updated_at": "2026-11-07T23:43:52+00:00",
+      "username": "Rael_IST"
     },
     "1020063060067060067067066064068": {
       "discord_owner_hash": "ef1a61464931e117efa0ea59a921960d97e4171f673c0ae15832578359a9f268",
