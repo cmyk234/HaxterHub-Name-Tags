@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-07T14:19:02+00:00",
+  "updated_at": "2026-11-07T17:22:35+00:00",
   "users": {
     "1020060059063063061067068066059066064": {
       "discord_owner_hash": "afa15b0401d05f2e0868c71cada94af8ef759b0b9c8530bdc2d84b0712f57b48",
@@ -365,6 +365,14 @@
       "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/6497879aec702199dc642d5c02733113465197e5/nametags/1020065063059068065063066066.json",
       "updated_at": "2026-10-10T23:45:16+00:00",
       "username": "Awsomejade360"
+    },
+    "1020066062068065062062065067061060": {
+      "discord_owner_hash": "dbc3ce6ffd105b7147c1e2df471df9bc1bb86d8a1e5c1147a9e7266247fa93a8",
+      "display_name": "Brianna",
+      "entitlement": "permanent",
+      "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/bec13c785c9fc692f2252ba4bf398a0ee6e59326/nametags/1020066062068065062062065067061060.json",
+      "updated_at": "2026-11-07T17:22:31+00:00",
+      "username": "Briannabmb16"
     },
     "1020066065061063066065063060060066": {
       "discord_owner_hash": "afa15b0401d05f2e0868c71cada94af8ef759b0b9c8530bdc2d84b0712f57b48",
