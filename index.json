@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-07T12:38:46+00:00",
+  "updated_at": "2026-11-07T14:12:37+00:00",
   "users": {
     "1020060059063063061067068066059066064": {
       "discord_owner_hash": "afa15b0401d05f2e0868c71cada94af8ef759b0b9c8530bdc2d84b0712f57b48",
@@ -165,14 +165,6 @@
       "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/b9da269f383f50ba8c96f8b602d76eceb907389b/nametags/1020060060066060059067059062064062066.json",
       "updated_at": "2026-10-24T22:11:36+00:00",
       "username": "TheValAndOnly"
-    },
-    "1020060060066066066059059066065063062": {
-      "discord_owner_hash": "23e3942666b7089cab5b54fe280d1cade60f9cbaeb50d731f7b9b276bc8d5960",
-      "display_name": "x9klol",
-      "entitlement": "permanent",
-      "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/48d2bba6d337053ec2e8baede7f92ed671a3e0ce/nametags/1020060060066066066059059066065063062.json",
-      "updated_at": "2026-10-21T03:56:24+00:00",
-      "username": "x9klol"
     },
     "1020060060066067060060064068064062060": {
       "discord_owner_hash": "84ed0a4c85cf869311a477a4bf08bb7e5b9479b034136a4df308583d6dd82a5d",
