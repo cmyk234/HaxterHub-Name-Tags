@@ -1,12 +1,12 @@
 {
   "audio": {
-    "bytes": 2865242,
+    "bytes": 3916444,
     "enabled": true,
     "extension": "mp3",
     "kind": "audio",
     "looped": false,
     "mime": "audio/mpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/19bc167bace4670b2bfcf1937a4c9228b5d7fc01/assets/1020063060067060067067066064068/audio.mp3"
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/1e1325616eec5ca14d39bd396bd59724839ccfb3/assets/1020063060067060067067066064068/audio.mp3"
   },
   "background": {
     "bytes": 475141,
@@ -40,5 +40,5 @@
   "schema_version": 3,
   "tag": "SHABRIRI",
   "tag_color": "#F4F4F4",
-  "updated_at": "2026-10-25T13:33:23+00:00"
+  "updated_at": "2026-11-07T12:38:43+00:00"
 }
