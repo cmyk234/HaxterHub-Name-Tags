@@ -1,0 +1,42 @@
+{
+  "audio": {
+    "bytes": 2000378,
+    "enabled": true,
+    "extension": "mp3",
+    "kind": "audio",
+    "looped": false,
+    "mime": "audio/mpeg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/da0bcab252ed9f9b05f8f55dc49e3dcd2ce2fd6d/assets/1020061062068061064066066060/audio.mp3"
+  },
+  "background": {
+    "bytes": 1052279,
+    "columns": 8,
+    "extension": "jpg",
+    "fps": 15.0,
+    "frame_count": 90,
+    "frame_height": 270,
+    "frame_width": 480,
+    "kind": "spritesheet",
+    "mime": "image/jpeg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/76e424176589dc758bc10bc75bfa9a7de135269a/assets/1020061062068061064066066060/background.jpg",
+    "rows": 12,
+    "sheet_height": 3240,
+    "sheet_width": 3840
+  },
+  "discord_owner_hash": "f484c8084c9553df3962e96c440d95825ec5d7802e4665f4de2e37c5ef88c651",
+  "encoded_roblox_user_id": "1020061062068061064066066060",
+  "entitlement": "permanent",
+  "profile": {
+    "bytes": 124416,
+    "extension": "png",
+    "height": 256,
+    "kind": "image",
+    "mime": "image/png",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/226a03c3d50f02f0d7fb6c3e41500ccaf2c6c018/assets/1020061062068061064066066060/profile.png",
+    "width": 256
+  },
+  "schema_version": 3,
+  "tag": "PAWSOCKS ENJOYER",
+  "tag_color": "#C184FF",
+  "updated_at": "2026-11-08T11:28:42+00:00"
+}
