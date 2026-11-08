@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-08T06:24:52+00:00",
+  "updated_at": "2026-11-08T06:27:46+00:00",
   "users": {
     "1020060059063063061067068066059066064": {
       "discord_owner_hash": "afa15b0401d05f2e0868c71cada94af8ef759b0b9c8530bdc2d84b0712f57b48",
@@ -186,8 +186,8 @@
       "discord_owner_hash": "7d897ce816b4d4854bf1f566d3ee40cda60618ceaf825806aa19bea5656f7895",
       "display_name": "Memory",
       "entitlement": "permanent",
-      "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/3022561a14dfa19c2303a12d16e689f1ea1e4674/nametags/1020060060066067059066064062068065061.json",
-      "updated_at": "2026-11-08T06:24:47+00:00",
+      "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/524f4fcdb2a1b8378696b44c41bac2b2dce7a921/nametags/1020060060066067059066064062068065061.json",
+      "updated_at": "2026-11-08T06:27:38+00:00",
       "username": "Prodigy_1734"
     },
     "1020060060066067060060064068064062060": {
