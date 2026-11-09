@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-09T12:30:48+00:00",
+  "updated_at": "2026-11-09T22:17:56+00:00",
   "users": {
     "1020060059063063061067068066059066064": {
       "discord_owner_hash": "afa15b0401d05f2e0868c71cada94af8ef759b0b9c8530bdc2d84b0712f57b48",
@@ -288,10 +288,10 @@
     },
     "1020062063063068066063063062065064": {
       "discord_owner_hash": "58280d84fc9ec3f1f92bd32d96553cea3683ae8276a27c0f2a023978dec53f2c",
-      "display_name": "desirab1e",
+      "display_name": "White Emperor",
       "entitlement": "permanent",
-      "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/67a8a97e858280757caef337433a712347fd6cba/nametags/1020062063063068066063063062065064.json",
-      "updated_at": "2026-11-02T01:13:08+00:00",
+      "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/be5eda4b70bc3608b57adcbf59c9a4b003ecd589/nametags/1020062063063068066063063062065064.json",
+      "updated_at": "2026-11-09T22:17:54+00:00",
       "username": "DeathOfAkiraRin"
     },
     "1020062063068065062063059067": {
