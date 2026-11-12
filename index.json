@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-11T08:27:53+00:00",
+  "updated_at": "2026-11-12T21:05:01+00:00",
   "users": {
     "1020060059063063061067068066059066064": {
       "discord_owner_hash": "afa15b0401d05f2e0868c71cada94af8ef759b0b9c8530bdc2d84b0712f57b48",
@@ -457,6 +457,14 @@
       "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/f755fe6e6208c66e17f9614e0fef9d5c39a42806/nametags/1020068063066059061067065068064060.json",
       "updated_at": "2026-09-23T23:28:41+00:00",
       "username": "idkboii_7"
+    },
+    "1020068063066063067066064060068061": {
+      "discord_owner_hash": "f68597258f8ff757ae080e1a985169f7f3b0b59e6db74228db435cdf2f9bfa73",
+      "display_name": "mypullgameisweakfr",
+      "entitlement": "permanent",
+      "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/54d7a8cd2ef0d70061621fad9f3d365c03e68d1a/nametags/1020068063066063067066064060068061.json",
+      "updated_at": "2026-11-12T21:04:55+00:00",
+      "username": "Alt_8334"
     }
   }
 }
