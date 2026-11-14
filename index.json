@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-13T00:00:57+00:00",
+  "updated_at": "2026-11-14T15:19:41+00:00",
   "users": {
     "1020060059063063061067068066059066064": {
       "discord_owner_hash": "afa15b0401d05f2e0868c71cada94af8ef759b0b9c8530bdc2d84b0712f57b48",
@@ -182,14 +182,6 @@
       "updated_at": "2026-11-08T05:13:29+00:00",
       "username": "Watoflorxo"
     },
-    "1020060060067060064068063060065060062": {
-      "discord_owner_hash": "7d897ce816b4d4854bf1f566d3ee40cda60618ceaf825806aa19bea5656f7895",
-      "display_name": "Memory",
-      "entitlement": "permanent",
-      "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/8fd0f1d59aa452ab4718bfb623f7a5f058f5a936/nametags/1020060060067060064068063060065060062.json",
-      "updated_at": "2026-11-11T08:27:44+00:00",
-      "username": "Prodigy_1741"
-    },
     "1020060060068059060067062065063066067": {
       "discord_owner_hash": "dbc3ce6ffd105b7147c1e2df471df9bc1bb86d8a1e5c1147a9e7266247fa93a8",
       "display_name": "SIGMAGUY20024",
@@ -197,6 +189,14 @@
       "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/c0faa729929b1a3ea7349b7a7778981b307eb637/nametags/1020060060068059060067062065063066067.json",
       "updated_at": "2026-11-08T17:26:45+00:00",
       "username": "SIGMAXNICKK20024"
+    },
+    "1020060060068067065060060059068068065": {
+      "discord_owner_hash": "7d897ce816b4d4854bf1f566d3ee40cda60618ceaf825806aa19bea5656f7895",
+      "display_name": "prodigy",
+      "entitlement": "permanent",
+      "record_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/51c48c519f2775d996b1ff3a5a97dc81c8cf9160/nametags/1020060060068067065060060059068068065.json",
+      "updated_at": "2026-11-14T15:19:31+00:00",
+      "username": "Mrprodigy39"
     },
     "1020060061059059060060065064063": {
       "discord_owner_hash": "afa15b0401d05f2e0868c71cada94af8ef759b0b9c8530bdc2d84b0712f57b48",
