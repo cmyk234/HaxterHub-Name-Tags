@@ -1,48 +1,48 @@
 {
   "audio": {
-    "bytes": 2979898,
+    "bytes": 64084,
     "enabled": true,
     "extension": "mp3",
     "kind": "audio",
     "looped": false,
     "mime": "audio/mpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/a4e3a99605218db611309f666317bf5dc7b252b6/assets/1020067065067059066064067061066/audio.mp3"
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/fb13563846622ed0ea83f5171988912b001baeab/assets/1020067065067059066064067061066/audio.mp3"
   },
   "background": {
-    "bytes": 122561,
-    "columns": 3,
+    "bytes": 534932,
+    "columns": 8,
     "extension": "jpg",
-    "fps": 3.333,
-    "frame_count": 6,
+    "fps": 15.0,
+    "frame_count": 70,
     "frame_height": 270,
     "frame_width": 480,
     "kind": "spritesheet",
     "mime": "image/jpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/bb17ba361215e1994c8dad21b5c71e9b4db2a6a6/assets/1020067065067059066064067061066/background.jpg",
-    "rows": 2,
-    "sheet_height": 540,
-    "sheet_width": 1440
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/0c9b696f98c7ab302fd3111b8803044d21074316/assets/1020067065067059066064067061066/background.jpg",
+    "rows": 9,
+    "sheet_height": 2430,
+    "sheet_width": 3840
   },
   "discord_owner_hash": "acddb448dee103c018e11fe7edaaa8e45fdc2a20f76af0c6ab50b16651aad68f",
   "encoded_roblox_user_id": "1020067065067059066064067061066",
   "entitlement": "permanent",
   "profile": {
-    "bytes": 110862,
-    "columns": 6,
+    "bytes": 233470,
+    "columns": 7,
     "extension": "jpg",
-    "fps": 5.0,
-    "frame_count": 36,
+    "fps": 10.0,
+    "frame_count": 40,
     "frame_height": 160,
     "frame_width": 160,
     "kind": "spritesheet",
     "mime": "image/jpeg",
-    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/16312487307e87ae18ead992d863f2cc9eb641f8/assets/1020067065067059066064067061066/profile.jpg",
+    "raw_url": "https://raw.githubusercontent.com/cmyk234/HaxterHub-Name-Tags/e3b14299a8e6ed753a1133ed65f40d396a8420f7/assets/1020067065067059066064067061066/profile.jpg",
     "rows": 6,
     "sheet_height": 960,
-    "sheet_width": 960
+    "sheet_width": 1120
   },
   "schema_version": 3,
-  "tag": "FOXY",
-  "tag_color": "#FF626F",
-  "updated_at": "2026-10-23T23:34:49+00:00"
+  "tag": "CASSIDY",
+  "tag_color": "#F4F4F4",
+  "updated_at": "2026-11-16T13:18:47+00:00"
 }
